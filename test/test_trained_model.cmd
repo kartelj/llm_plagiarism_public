@@ -1,0 +1,1 @@
+python ../code/predictors/test.py ../data/EnglishDatasetSample ../code/predictors/en_lemma_lookup.json models/en/en_XGBClassifier_12345_word_1 output.csv

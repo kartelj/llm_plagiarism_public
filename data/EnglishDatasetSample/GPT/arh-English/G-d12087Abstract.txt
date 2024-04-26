@@ -1,0 +1,15 @@
+This study examines the optimal form-finding methods for creating the initial geometry of tensile structures. It evaluates the results and efficiency of these methods, as well as the software packages that utilize them. Tensile structures are ideal for covering large areas and buildings without the need for thermal insulation. Their minimal use of construction materials is a significant advantage. However, in the Balkans, these structures are still uncommon. Architects and engineers often default to rigid structures for large spans, despite the benefits of tensile structures. 
+
+Given that the geometry of tensile structures follows strict mathematical rules, this study analyzes the methods for generating their preliminary geometry, also known as form-finding. Initially, form-finding was an iterative, intuitive, and experimental process, with architects creating structural geometry using soap-film, stocking, or elastic tulle models. As tensile structures evolved, this process became increasingly digital, necessitating the development of algorithms to approximate the position of structural nodes for static equilibrium. 
+
+Several form-finding methods were developed, including the Force-density method, Dynamic relaxation, and the Updated Reference Strategy. This study compares these methods and the software packages that implement them. It uses several form-finding methods to find the initial equilibrium geometry of typical structure examples, including the linearized Force-density method, Dynamic relaxation, Updated reference strategy, and the finite-differences method. 
+
+The first part of the dissertation analyzes these form-finding methods and compares them to those published in scientific literature. The second part compares the results of these methods when applied to typical structural examples. The final part examines the software packages that use these methods. 
+
+The goal of the research is to identify the optimal form-finding method and software, taking into account previous research in the field. The optimality of the software package and supporting method depends on the user, the specific project, and economic validity. 
+
+This work has two dimensions: an analytical comparison of the results of the form-finding methods and empirical acknowledgements based on the author's long-term experience with software for membrane structural design and form-finding. 
+
+Creating software for form-finding of tensile structures is complex and requires a team of experts in several disciplines. Therefore, the author used existing commercial software to gather her research results. Four typical examples were analyzed in this dissertation: an asymmetrical hyperboloid, the minimal surface of Concus, a saddle-shaped surface, and a conical tent with a singular boundary condition. 
+
+The study also compared commercial software packages, including the program Membrane and Ken Brakke’s Surface Evolver, a minimal surface generating software available online.

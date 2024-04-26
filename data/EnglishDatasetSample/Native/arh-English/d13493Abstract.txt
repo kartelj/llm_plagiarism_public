@@ -1,0 +1,35 @@
+The main purpose of the research conducted in the doctoral dissertation is to evaluate
+the impact the use of wood has on the ecological propriety of houses in Bosnia and
+Herzegovina. Scientific research proved that there is a direct connection between the
+mode and form of the use of wood and ecological propriety of houses.
+To do the evaluation, an algorhytm was formed, based on which the assessment was
+made. At the beginning of the whole process the reference housing type was selected
+along with variant reference types that will be subject to valuation.
+A typical family house built in Bosnia and Herzegovina has been determined the
+main reference type, based on which additional three variant reference types were
+formed, to be subject to valuation. The reference type Т constitutes the typical family
+house with the elements of structure used in classical mass building system, whereas the
+reference type Т represents the ecologically more advanced variant where wood is used
+to a somewhat larger extent. The variant reference types Т and Т are formed of
+structure elements where wood is used in their construction, thus T represents a
+building with Easy Panel elements used as wall elements and interfloor constructions,
+and Т refers to a building with portable elements оf CLT panels.
+The assessment was made by valuating certain elements, and thereby the whole
+building by applying the software eco2soft, selected as in Bosnia and Herzegovina there
+are no models or tools to be used for the valuation process. The valuation process was
+carried out in two phases: firstly, the thermal layer of the building was valuated (phase
+BG0), аnd then the whole building (phase BG3). The valuation process set definitions
+for the life cycle phase of a house for which the assessment is made, from „cradle to
+gate“ for the phase BG0, while the phase BG3 also included the impacts of
+maintenance. The time period for which maintenance impacts were valuated is 100
+years, but valuations were also made in the periods of 25, 50 and 75 years so as to in
+more detail assess the impacts made during the maintenance of house elements and their
+connection to the building materials used.
+The process of valuating houses and elements of their structure proved that the use of
+wood may improve the ecological propriety of houses, primarily those intended for
+families, but likewise that certain results may also be applied on all houses.
+Improvement of ecological propriety of houses means less negative impact of houses
+on the environment and the occupants, whether it be caused by production or use.
+Evaluation of the impact the use of wood has on ecological propriety of houses may
+significantly affect the increase of volume and way in which wood is used, which will
+also contribute to the economic development.

@@ -1,0 +1,17 @@
+The idea of transparency is frequently utilized in modern office architecture to portray a company as both powerful and approachable to clients. This is often achieved through the use of highly glazed facades, which symbolize openness and business integrity. These facades also suggest a modern organization that is environmentally conscious and committed to energy conservation. However, the energy conservation aspect can be questionable if the ratio of glazed facade is not properly optimized according to the building's location and climate conditions. 
+
+This study investigates the benefits of glazed facades in office spaces in Belgrade's climate. These benefits include the use of natural light to reduce energy consumption for lighting and the use of solar heat gains to offset the significant heat loss during the heating period. The main focus of this study is the visual comfort in office spaces under daylight conditions, along with its energy implications. 
+
+The study uses computer simulation to examine daylight performance in office spaces, a topic that has gained relevance as simulation technology and climate-based daylight metrics have advanced significantly in the past decade. DIVA for Rhino, a simulation tool developed at Harvard University in 2010, was used to simulate daylight and energy performances of office spaces. 
+
+The study analyzed an individual office space with a net glazed ratio (WWR) of 50%, 60%, 70%, and a maximum of 85%. The space was rotated to face the four main orientations (east, south, west, and north). Four sets of glass characteristics were chosen, corresponding to 50%, 60%, 70%, and 80% light transmittance. 
+
+The first part of the analysis focused on simulating daylight and energy performances in office spaces without any shading. The aim was to explore the potential for daylighting and energy use in office spaces, as visual and thermal comfort conditions cannot be met in spaces without shading devices. 
+
+The main focus of this study is office spaces with integrated shading devices that can adapt to changing climate conditions and create a comfortable working environment. The results show that in Belgrade's climate, highly glazed facades can be used in office spaces facing south and north. North-facing spaces have the highest use of daylight and consequently the lowest energy use for lighting. 
+
+The best solution for daylight use is a glass variant with high light and energy transmission characteristics combined with excellent insulation properties. During the heating period, north-facing spaces do not receive any solar gains, so high energy transmittance and insulation properties control the extremely high heating energy needs. 
+
+South-facing spaces have high lighting energy needs. High daylight use is blocked by the presence of direct radiation on the facade for most of the year, so shading is mostly closed. As with other orientations, lighting energy savings increase as the glazing ratio increases, but the savings are relatively low compared to other energy needs. 
+
+The highest daylight use occurs with low light transmission glass (as low as 50%), as the glass reduces illuminance levels on the working plane, allowing the shading to stay open more often. However, the primary reason for the energy efficiency of a highly glazed south facade is the high level of solar gains during the heating period. Solar gains on the south facade reduce energy use for heating to a level that is almost twice lower than other orientations of space, and about 30% lower overall energy.

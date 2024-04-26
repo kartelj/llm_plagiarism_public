@@ -1,0 +1,34 @@
+The work will propose the unconventional process for the design of NURBS spatial
+structures, which integrates methods for fabrication of physical models Rapid
+Prototyping and methods for 3D optical strain measurement, in the process of
+conception the design solutions. Defining such a procedure would allow more simple
+and more efficient design of unconventional NURBS structures. Rapid Prototyping
+represents a technology that is constantly evolving and whose potential is still not
+enough exploited in the process of designing architectural forms. Within the framework
+of this paper constructed models will be used in the process of structural analysis.
+Diagnostics of structural behavior in terms of strain and stresses is imposed as a
+necessary step of validation of the results of computer analysis using finite element
+method when it comes to unconventional solutions, and is a logical step that precedes
+the phase of the building of real structure. The application of these technologies would
+ensure finding rational solutions in a structural terms.
+The work is based on the view that the using potentials of the advanced digital
+technologies and multidisciplinary approach enables the improvement of the design
+process. Numerous examples of extremely successful architectural projects realized on
+these principles confirm validity of this approach. A constant development of digital
+technologies, in terms of improvement of performances, opens up the possibility of
+introducing certain technologies, which are not initially intended for the process of
+architectural design, in the process of solving of architectural-engineering problems.
+With the remark that achieving quality results is equally conditioned by knowledge of
+the problem and the technology used for its solution. It is imposed to the architecture to
+refine the means for production out of the framework of its field. In this sense, it is
+considered justified use of the proposed scientific method that can be applied for
+designing unconventional NURBS structures.
+Starting from the theory of beam and surface bearing elements in the general Spline
+parametric NURBS coordinates a series of isogeometrci Kirchhoff shell elements and
+Bernoulli Euler beam elements of arbitrary continuity is formulated in the work, which
+was not possible by classical isoperimetric approach. Generalized coordinates of these
+elements are purely translation displacements of the points on the rod axis and the
+points on the middle surface of the shell. These elements accurately describe the
+original geometry of the mentioned structures which results in efficient strain and stress
+analysis with a relatively small number of both finite elements and degrees of freedom
+of displacements.

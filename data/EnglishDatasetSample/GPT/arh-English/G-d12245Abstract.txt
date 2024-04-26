@@ -1,0 +1,13 @@
+This dissertation presents an analysis of ground motion and air-blast overpressure caused by blasting in limestone quarries, and their impact on nearby structures such as houses. Limestone was selected for this study due to its prevalence in Serbian quarries and its widespread use in civil engineering. Numerous experimental studies have been conducted on blast-induced vibrations in limestone. 
+
+During regular blasting operations in limestone quarries, the peak particle velocity near adjacent structures was measured. The effects of blast-induced ground motion were assessed using conventional predictors, in line with legal regulations and engineering practices. The predictive power of these predictors was evaluated in relation to peak particle velocity. 
+
+A new artificial neural network model was developed to predict the impact of blasts on buildings. This model includes three input units (total charge, maximum charge per delay, and distance from the explosive charge to the monitoring point), one hidden layer, and one output unit (peak particle velocity). 
+
+The impact on existing buildings was estimated by comparing peak particle velocities with values set by existing vibration standards. To more accurately assess the real effects of blast-induced ground motion on nearby buildings, a numerical stress-strain analysis of structural elements was conducted. This non-standard method was used to analyze the impact of blasting on surrounding structures. 
+
+Buildings in the vicinity were modeled using the finite element method and both academic and commercial software packages. Measured time recordings were used for direct dynamics analysis. The results identified the most heavily loaded elements and the points where damage is most likely to occur first. 
+
+The calculations revealed that blasting conducted in accordance with positive vibration standards results in significantly lower stresses and strains than permitted, thereby preventing damage to buildings. To determine the effects of blast-induced ground motion on different types of buildings, an analysis was conducted on several characteristic types of brick and reinforced concrete buildings using measured time recordings. 
+
+The results indicated that the stresses and strains on the analyzed types of buildings are lower than the allowable limits for impacts recorded at the measuring points. Safe distances from blasting points for different types of buildings were determined using conventional predictors and the given procedure. This non-standard method allows for the determination of safe distances from blasting points based on chosen authoritative criteria.

@@ -1,0 +1,11 @@
+This doctoral thesis primarily investigates new service diffusion forecasting models. It proposes a new diffusion model with a variable market potential, based on the Basic Bass diffusion model. The goal is to tailor the model to the operational characteristics of services/products and the market's socio-economic parameters that influence potential customers. The thesis also reviews existing forecasting models in the literature and compares the results of the proposed model with similar ones. 
+
+The thesis aims to address the challenge of predicting the adoption of a new service, which is contingent on the progression of network infrastructure development. If a new service's technical support isn't available throughout the territory, the service can't be offered to the market all at once. Hence, the adoption process occurs in stages, in line with the systematic development of the infrastructure. 
+
+The model takes into account a variable market potential, which is dependent on the technical capabilities associated with new telecommunications services. The traffic area infrastructure's availability increases over time, based on the necessity for infrastructure investment. This is the thesis's primary motivation - to develop a diffusion model with a variable market potential, driven by the dynamics of network infrastructure development. 
+
+After examining various diffusion models, technical parameters of the services, and the market's socio-economic indicators, an optimal forecasting model is proposed. This model incorporates a time-varying market potential and uses market segmentation and the simulation of different market scenarios to highlight effective service rollout. 
+
+Demand forecasting is necessary for determining the required network resources. Additionally, this model provides insight into the operator's trade-offs concerning network investment decisions. The outcome is a network deployment strategy that outlines the temporal sequence of network layouts, indicating the essential investments at each time point. 
+
+The model is crucial for operators and service providers in decision-making and planning, particularly in developing countries and during economic crises. It's worth noting that the model's strength lies in its robustness and applicability to real-world situations, particularly in the telecommunications market.

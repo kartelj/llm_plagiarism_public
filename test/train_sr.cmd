@@ -1,0 +1,2 @@
+python ../code/predictors/train.py ../data/SerbianDatasetSample ../code/predictors/sr_lemma_lookup.json 12345 0.66 word 1
+python ../code/predictors/train.py ../data/SerbianDatasetSample ../code/predictors/sr_lemma_lookup.json 12345 0.66 char 4

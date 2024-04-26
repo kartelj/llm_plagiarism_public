@@ -1,0 +1,22 @@
+Korišćenjem principa relativističke geometrije, inverzija kao kvadratna
+transformaciju u ravni upoređena je sa njenim prostornim izvođenjem u vidu dva
+stereografska projektovanja, sa "ravni" na sferu i sa sfere na istu "ravan" (iz antipodnog
+centra projiciranja). Dato je klasično i relativističko tumačenje. Analizirani su takođe
+različiti tipovi simetrija konike, konformna (osna i centralna) i nekonformna.
+Harmonijskom simetrijom, kao potpuno bijektivnom i konformnom centralnom
+inverzijom, prikazana je transformacija svih šest tipova pramenova konika i njihovih
+specifičnosti u pramenove krivih trećeg i četvrtog reda i njihove preslikane
+specifičnosti, i obrnuto. Osnovna transformacija je inverzija, pri čemu je ona tumačena
+na dva načina: kao kvadratna transformacija u klasičnoj projektivnoj geometriji i kao
+čista simetrija u relativističkoj geometriji, sa stalnim povlačenjem paralela između dva
+geometrijska sistema i njihovim mogućnostima eksplikacije i generalizacije.
+Prikazan je i pramen krivih četvrtog reda dobijen inverzijom pramena kvadrika
+sečenog pomoću "ravni" u pramen ekvivalentnih površi četvrtog reda sečenog tom
+istom "ravni". Prepoznavanjem ekvivalentnosti inverzije sa klasičnom osnom
+simetrijom (nekonformna simetrija) ukazano je na neograničene mogućnosti za
+preslikavanje krivih i površi i dobijanje novih oblika koji će biti od koristi i u teoriji
+geometrije kao i u arhitektonskoj praksi. Istraživanja u oblasti proširenih simetrija nude
+neiscrpan prostor za dalja otkrića o ravanskim i prostornim oblicima. Na osnovu modela
+preslikavanja, kreirana je Lisp rutina pomoću koje je u okviru Auto-CAD-a izvršeno
+kompjutersko crtanje pramenova konika, pramenova krivih 3. i 4. reda i generisanje i
+prikazivanje prostornih modela površi.
