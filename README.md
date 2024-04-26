@@ -1,5 +1,4 @@
 # General information and usage instructions
-Repository for the paper "Comparison of Algorithms for the Recognition of ChatGPT Paraphrased Texts" by Kartelj, Mladenović and Vujičić Stanković
 
 This repository contains the following folders:
 
