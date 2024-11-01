@@ -1,0 +1,35 @@
+﻿Ovaj rad se bavi uticajem upotrebe vode u poljoprivredi u Libiji, kao i ekološkim indikatorima koji su rezultat te upotrebe. Libija je pretežno sušna zemlja, sa Saharom koja pokriva 95% njene teritorije. Većina obradive zemlje i pašnjaka se nalazi na severu, u uskom mediteranskom priobalnom pojasu. Vodni resursi su oskudni, što je utvrđeno na osnovu nedostatka površinskih voda i drugih izvora, kao što su desalinizacija i tretman otpadnih voda. Libija se u velikoj meri oslanja na podzemne vode, koje čine oko 95% ukupnih vodnih resursa. Najveći svetski sistem izdana, Nubijski peščar, se nalazi ispod južnog dela libijske pustinje. 
+
+Poljoprivredni sektor čini oko 9% BDP-a, ali troši 85% ukupne vode i 12% električne energije. Ovi podaci ukazuju na loše i neodrživo upravljanje u poljoprivredi. Izabrana su tri ekološka indikatora kako bi se procenio uticaj upotrebe vode u poljoprivredi na životnu sredinu: 1. potrošnja vode (odvod), 2. korišćenje zemljišta (dreniranje), 3. zagađenje vode. 
+
+Prema ovim indikatorima, indeks održivosti životne sredine je loš, jer je potrošnja vode u poljoprivredi najštetnija za životnu sredinu, posebno u severnim, gusto naseljenim regijama. Upotreba vode u poljoprivredi dovodi do ozbiljnih ekoloških problema, uključujući prodor morske vode u podzemne rezerve, zagađenje vode i salinizaciju zemljišta. Takođe, prekomerna upotreba podzemnih voda u južnom regionu je dovela do smanjenja nivoa podzemnih voda u gornjim slojevima, što je rezultiralo isušivanjem nekih pustinjskih jezera. 
+
+Da bi se smanjila šteta prouzrokovana upotrebom vode u poljoprivredi, predložen je održiv način rešavanja problema potrošnje vode. Morska voda je prihvaćena kao obnovljiv i održiv izvor vode. Predložena je mogućnost korišćenja morske vode u poljoprivredi duž priobalnih pustinja u Libiji, koristeći slano-tolerantne biljke (halofite) za ishranu stoke. Ovaj rad će predstaviti studiju o tome kako se morska voda može koristiti kao obnovljiv resurs za vodu i poljoprivredu u Libiji, i kako će to doprineti održivom razvoju ove prostrane zemlje. 
+
+Najvažniji razlozi za korišćenje morske vode su: 
+
+1. Male zalihe podzemnih voda u priobalnim područjima i njihovo preklapanje sa morskom vodom u nekoliko oblasti. Nasuprot tome, Libija ima najdužu obalu na Mediteranu, od preko 1.900 kilometara. 
+
+2. Oscilacije u količini padavina, što se negativno odrazilo na prirodne pašnjake. 
+
+3. Više od 90% stanovništva zemlje živi u priobalnom pojasu, što je prouzrokovalo veliki odliv podzemnih voda, koje su u tom regionu ionako oskudne. Iz tih razloga vlada je radila na projektu Velika Veštačka Reka (VVR)  – Great Man-Made River (GMR), koja doprema vodu od južnih do severnih oblasti, da bi se umanjio taj problem. 
+
+4. Očuvanje zaliha podzemnih i površinskih voda, jer to nisu obnovljivi izvori vode. 
+
+Proizvodnja struje: predložen je održivi pristup, da bi se iskoristile prednosti Velike Veštačke Reke, za proizvodnju električne energije, iz kretanja vode duž cevovoda, korišćenjem turbina odgovarajućih veličina. Poznato je da je dužina VVR cevovoda oko 4.000 km, sa promerom od 4 m. Cevovod takvog opsega sa velikim protokom vode omogućiće da jedna turbina proizvodi stotine kilovata čiste energije. Najvažniji razlozi koji nas motivišu da iskoristimo prednosti VVR za proizvodnju električne energije: 
+
+1. Potrebe za održivim izvorom energije bez uticaja na životnu sredinu. 
+
+2. Moćan sistem, koji koristi energiju protoka vode da obezbedi stalan, kontrolisan i nezavisan od vremenskih uslova, izvor struje, za razliku od drugih vrsta obnovljivih izvora energije, koje zavise od vremenskih prilika. 
+
+Poljoprivreda: Predložen je održivi pristup, da bi se iskoristile prednosti VVR za proizvodnju hrane. Konverzija VVR, od snabdevanja svežom, pijaćom vodom primorskih gradova, do ogromnog poljoprivrednog projekta, nakon postavljanja mnogobrojnih postrojenja za desalinizaciju morske vode (na solarni pogon), da bi se obezbedile potrebe gradova za svežom vodom. Tako bi postalo moguće pretvoriti hiljade hektara pustinje oko cevovoda u ogroman poljoprivredni projekat navodnjavanja iz VVR. 
+
+Prelazak sa zavisnosti od fosilnih goriva na obnovljive izvore energije, za proizvodnju struje, veoma je važan, zato što razvoj poljoprivrede znači više korišćenja podzemnih voda, više korišćenja goriva, što vodi u još veće zagađenje životne sredine. 
+
+Sunčeva energija je obećavajući obnovljivi izvor energije u Libiji, ali ova opcija traži i druge održive, čiste i ekološke izvore energije, tako da različitost obnovljivih izvora energije promoviše ekonomsku i ekološku bezbednost. Ova teza se fokusira na sledeće tehnike za proizvodnju električne energije iz: 
+
+1. protoka vode duž cevovoda VVR; 
+
+2. kretanja vozila na putevima, koji se nazivaju „pametni putevi“. 
+
+Ove tehnike se smatraju mudrom politikom, koja povećava raznolikost održivih izvora energije. Ovaj korak je u adekvatnom pravcu korišćenja raspoloživih novih tehnologija, u cilju dobijanja čiste energije iz obnovljivih i održivih izvora.

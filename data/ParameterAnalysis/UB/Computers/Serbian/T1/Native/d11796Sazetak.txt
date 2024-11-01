@@ -1,0 +1,36 @@
+Bežične senzorske mreže predstavljaju sisteme koji se sastoje iz većeg broja 
+računarskih uređaja malih dimenzija, koji su opremljeni izvesnim brojem senzora za 
+prikupljanje podataka iz okruženje i koji su sposobni da komuniciraju pomoću radio 
+veze. Bežične senzorkse mreže mogu biti izvor velikih količina podataka, pa su 
+pogodne za upotrebu sa tehnikama mašinskog učenja. Cilj ovog rada je 
+prilagođavanje odabranih algoritama mašinskog učenja, tako da se izračunavanja 
+izvršavaju distribuirano, na samim uređajima koji sačinjavaju senzorsku mrežu. 
+ 
+Kroz analizu problema, dobijena su tri osnovna zahteva koje algoritam 
+distribuiranog mašinskog učenja treba da zadovolji pri radu u bežičnoj senzorskoj 
+mreži. Prvo, neophodno je minimizovati kominikaciju između čvorova u mreži, 
+pošto se prilikom komunikacije troši znatna količina energije. Drugo, potrebno je da 
+su rezultati rada algoritma precizni. Treće, potrbeno je, u što većoj meri, izbeći 
+upotrebu centralizovanih računarski resursa, koji su izvan bežične senzorske mreže. 
+ 
+Centralni doprinos ovog rada predstavljaju dva algoritma distribuiranog mašinksog 
+učenja koji su prilagođeni upotrebi u bežičnim senzorskim mrežama. Prvi algoritam 
+je klasifikacioni sistem kod kojega se klasifikacija vrši na dva nivoa. Prvo se na 
+samim čvorovima, primenom proizvoljnog (dat je primer sa stabilma odlučivanja) 
+klasifikatora donosi lokalna odluka. Potom se odluka na nivou mreže donosi 
+težinskom većinskom logikom na osnovu svih lokalnih odluka. Pokazuje se da 
+upotrebom Kapa statiske moguće ostvariti visok nivo tačnosti pri radu ovog 
+algoritma. 
+ 
+Drugi predstavljeni algoritam je algoritam za grupisanje podataka, na osnovu 
+Kohonenovih neuralnih mreža. Arhitektura predložene mreže je prilagođena 
+podacima koji se dobijaju sa senzora u bežičnim senzorksim mrežama. Takvi podaci 
+sadrže u sebi dve informacije, gde se neki događaj desio i tip događaja desio. Na 
+osnovu ovog zapažanja konstruisana je Kohonenova neuralna mreža sa dva sloja, 
+prvi koji služi da odredi lokaciju dogadjaja i drugi koji služi da odredi njegov tip. 
+ 
+Oba algoritma su ispitana matematičkom analizom i pokazano je da nude značajne 
+mogućnosti za energetsku uštedu pri radu. Tačnost algoritama je analizirana 
+primenom računarskih simulacija. Zaključuje se da opisani algoritmi mogu imati 
+praktičnu primenu, te da tehnike distribuiranog mašinskog učenja predstavljaju 
+moguće rešenja za održiv razvoj velikih senzorskih mreža. 

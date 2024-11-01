@@ -1,0 +1,13 @@
+This study outlines a methodological strategy for constructing a telecommunication company's information system based on models. This is achieved by merging general IS development approaches with a specific initiative in the telecommunication sector. The methodology includes MDA (Model Driven Architecture), EA (Enterprise Architecture), NGOSS (New Generation Operations Systems and Software), and SPL (Software Product Line). 
+
+The methodological approach is rooted in a software product line specific to the telecommunication domain, which is based on NGOSS frameworks and models. This allows for efficient construction of a Telecommunication Company IS through three distinct processes: General domain engineering for the telecommunication domain, Domain engineering for telecommunication domain type of service, and Application engineering. 
+
+To establish a methodological framework for the development of a model-driven telecom operator IS, it is crucial to understand the complexities in telecommunication domains. These include Functional Domains, Areas of Integrated Processes, Types of Telecommunication Services, IS Development Life-Cycles Phases, and Specific Telecom Operators IS. 
+
+The study also discusses the implementation of a system for Horizontal Multi-level Staged Configuration (HMLSC) and Vertical Multi-level Staged Configuration (VMLSC). These systems are responsible for the comprehensive definition of all initial Features Models by functional areas of the telecommunication domain. 
+
+The study further elaborates on the Domain engineering for telecommunication domain type of service and Application engineering for the telecommunication domain. These processes allow for the specification and generation of a specific operator’s IS. 
+
+The model-driven methodological approach to the development of a telecommunication company IS addresses several issues of IS development. These include IT and Business Alignment, overcoming Multidimensional complexities of the telecommunication domain, and dealing with Business Dynamism. 
+
+The study concludes with a review and comparison of the advantages and disadvantages of the existing approaches and methods used in the thesis. It also discusses the benefits brought by the approach the thesis proposes. The automation of the presented methodological approach leads to more efficient IS development.

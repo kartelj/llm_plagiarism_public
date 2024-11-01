@@ -1,0 +1,38 @@
+Wireless sensor networks are systems that consist of a number of small 
+computational devices, called sensor nodes. A sensor node is also equipped with one 
+or more sensors for gathering data from the environment, and is capable of 
+establishing radio communications with other nodes in the network. Wireless 
+sensor networks can produce large amounts of data, making them suitable for 
+applying machine learning techniques. The goal of the work presented here is the 
+adaptation of selected data mining algorithms for distributed execution, so that they 
+can be run directly on the sensor nodes. 
+ 
+Through the analyses of the problem, three basic requirements for a distributed 
+dataTmining algorithm suitable for execution in a wireless sensor network have 
+been reached. First, minimizing the communication between the nodes is of 
+paramount importance, since commination consumes significant amounts of energy. 
+Second, the algorithm should yield accurate results. Third, use of centralized 
+computational resources should be avoided as much as possible. 
+ 
+The major contribution of the work presented in this thesis comes in the form of 
+two novel algorithms for distributed machine learning, that are adapted to suit the 
+needs of the execution in a wireless sensor network. First of the two algorithms is a 
+classification scheme that consists out of two layers. The first layer is executed on 
+the sensor nodes, and can utilize any type of a classifier (the approach was tested 
+using J48 decision trees). The results of this step are than propagated to a 
+centralized, second layer classifier that is based on a weighted voting scheme. The 
+second of the two algorithms is a clustering algorithm, based on Kohonen neural 
+networks. The architecture of the network is adapted to the nature of the data that 
+are obtained from sensor nodes in wireless sensor networks. Such data contain two 
+sources of variability: the information about the location of an event that has taken 
+place and is being sensed and the properties of the event that has taken place. Based 
+on this observation, the proposed Kohonen neural network is constructed two 
+contain two layers, the first layer clustering data with respect to the location of 
+origin, and the second layer that clusters data with respect to the underlying event 
+type. 
+ 
+Calculations show that both of the proposed algorithms offer significant savings in 
+terms of energy consumption. The accuracy of the algorithms was verified using 
+computational simulations. In conclusion, the proposed algorithms are suitable for a 
+number of practical applications, while the machine learning techniques present a 
+viable approach to building sustainable large wireless sensor networks. 

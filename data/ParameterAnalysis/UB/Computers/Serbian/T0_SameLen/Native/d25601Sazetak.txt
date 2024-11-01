@@ -1,0 +1,15 @@
+Postojeći pravci razvoja računarstva imaju za cilj da se performanse računarskih sistema
+podignu na što viši nivo, da bi se zadovoljile potrebe za obradom velike količine podataka. Pažnja
+je usmerena na razvoj procesora kao glavne karike u procesu obrade podataka. Trendovi poboljšanja
+performansi procesora predvideni Murovim zakonom u poslednje vreme se usporavaju usled fizičkih
+ograničenja poluprovodničke tehnologije, te poboljšanje performansi postaje sve teže i teže. Taj problem se pokušava nadomestiti raznim tehnikama koje imaju za cilj poboljšanje performansi bez povećanja broja tranzistora i potrošnje energije.
+U ovoj disertaciji su razmatrani asimetrični višejezgarni procesori sa podrškom za transakcionu
+memoriju. Predložene su dve nove tehnike za poboljšanje performansi takvih procesora. Jedna tehnika služi za smanjenje zagušenja transakcija usled velikog paralelizma migracijom transakcija na
+brže jezgro. Transakcije koje najviše doprinose pojavi zagušenja, se biraju za migraciju. Njihovim
+izvršavanjemnabržemjezgrusesmanjujeverovatnoćadaćedoćiukonfliktsadrugimtransakcijama.
+Na taj način se povećava šansa za izbegavanja zagušenja. Druga tehnika prilagodava podsistem keš
+memorija tako da se smanji vreme pristupa do keš memorije i da se smanji šansa za pojavu lažnih
+konflikata, uz smanjenje broja tranzistora koji su potrebni za implementaciju keš memorije. To se
+može postići korišćenjem malih i jednostavnih keš memorija.
+Za obe tehnike dati su detaljni predlozi implementacije. Napravljeni su prototipovi tih tehnika u
+simulatoru Gem5, koji detaljno modeluje procesorski sistem. Pomoću prototipova je izvršena evaluacija predloženih tehnika simuliranjem velikog broja aplikacija iz standardnog skupa aplikacija za testiranje transakcione memorije. Analizom rezultata simulacije preporučeno je na koji način i kada treba koristiti predložene tehnike.

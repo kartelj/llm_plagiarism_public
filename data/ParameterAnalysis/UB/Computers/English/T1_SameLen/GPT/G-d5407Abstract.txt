@@ -1,0 +1,27 @@
+This study outlines a systematic strategy for constructing a telecommunication company's information system based on models, by merging universal methods for IS development and a specific initiative within the telecommunication sphere. The following are included:
+
+MDA (Model Driven Architecture), a software development method that has been standardized and endorsed by OMG (Object Management Group).
+
+EA (Enterprise Architecture), a method for concurrently developing a company's Business and IT Architecture. TOGAF (The Open Group Architectural Framework) is the most widely used and well-known architecture framework and method for enterprise architecture creation.
+
+NGOSS (New Generation Operations Systems and Software), a program being developed by the Telemanagement Forum which represents a structure for developing and implementing the "Operation and Business Support Systems – OSS/BSS" within the telecommunication industry.
+
+SPL (Software Product Line), a modern approach to domain-specific model-driven software development automation. Instead of a single software product, an entire software product family is developed through domain engineering.
+
+The systematic approach is based on a software product line that is specific to the telecommunication domain, built on NGOSS frameworks and models, which allows for the efficient construction of a Telecommunication Company IS through three distinct processes: General domain engineering for telecommunication domain, Domain engineering for telecommunication domain type of service, Application engineering.
+
+The complexity in telecommunication domains: Functional Domains, Areas of Integrated Processes, Types of Telecommunication Services, IS Development Life-Cycle Phases, and Specific Telecom Operators IS needing development, must be well understood to define a methodological framework for evolving model-driven telecom operator IS. After that, it is necessary to define the connections and dimension-shifting sequences between them. The basic initial plan, which provides classification of the telecommunication domain by sub-domains and horizontal and vertical dependencies among sub-domains, was created based on the eTOM and SID NGOSS Framework.
+
+A basic mechanism known as “Multi-level Staged Configuration” has been defined as a strategy for dealing with the intricacy of the telecommunication domain and serving as a link between different sub-domains. A system for multi-level staged configuration of a telecommunication domain emerges by applying this mechanism to the basic initial classification scheme.
+
+After defining the framework for the telecommunication domain software product line, we can encompass all previously mentioned domain complexity dimensions through domain and application engineering. Given the multi-dimensional complexity of telecommunication domain, this approach requires unique domain engineering that consists of two levels: General domain engineering for telecommunication domain and Domain engineering for a particular type of service.
+
+The main steps of General domain engineering for telecommunication domain are establishing a system for Horizontal Multi-level Staged Configuration (HMLSC) and Vertical Multi-level Staged Configuration (VMLSC). These systems develop through four and six configuration schemes respectively, and are responsible for the controlled and comprehensive definition and implementation of all initial Features Models by functional areas of telecommunication domain along with the necessary UML model patterns, Data Model Templates, Behavior Templates, and more.
+
+In Domain engineering for telecommunication domain type of service, configuration schemes for Horizontal and Vertical Multi-level Staged Configuration, defined in General Domain engineering, are further developed and applied to specific services, creating a path for defining models.
+
+Application engineering for the telecommunication domain allows for the specification and creation of a specific operator’s IS. This part, as well as the entire methodological approach, is illustrated through step-wise tailoring and creation of a specific IS for a specific IPTV service operator.
+
+Addressing several problems of IS development, such as IT and Business Alignment, multidimensional complexities of the telecommunication domain, problem of IS development caused by Business Dynamism, mass customization of services, and allowing more efficient model transformation as one of the major general problems in MDA approach, the model-driven methodological approach to development of telecommunication company IS contributes greatly.
+
+The study concludes with a review and comparative overview of the benefits and drawbacks of the existing approaches and methods used in the thesis and discussion of the advantages introduced by the approach set forth in the thesis. The automation of the outlined methodological approach results in more efficient IS development, especially considering the potential of this approach to become the general methodology of IS development.

@@ -1,0 +1,17 @@
+Osnov za uspešnu integraciju emocionalne inteligencije u sofisticirane sisteme veštačke
+inteligencije jeste pouzdano prepoznavanje emocionalnih stanja, pri čemu se paralingvistički sadržaj
+govora izdvaja kao posebno značajan nosilac informacija o emocionalnom stanju govornika. U ovom
+radu je sprovedena komparativna analiza obeležja govornog signala i klasifikatorskih metoda
+najčešće korišćenih u rešavanju zadatka automatskog prepoznavanja emocionalnih stanja govornika,
+a zatim su razmotrene mogućnosti popravke performansi sistema za automatsko prepoznavanje
+govornih emocija. Izvršeno je unapređenje diskretnih skrivenih Markovljevih modela upotrebom QQ
+krive za potrebe određivanja etalona vektorske kvantizacije, a razmotrena su i dodatna unapređenja
+modela. Ispitane su mogućnosti vernije reprezentacije govornog signala, pri čemu je analiza proširena
+na veliki broj obeležja iz različitih grupa. Formiranje velikih skupova obeležja nameće potrebu za
+redukcijom dimenzija, gde je pored poznatih metoda analizirana i alternativna metoda zasnovana na
+Fibonačijevom nizu brojeva. Na kraju su razmotrene mogućnosti integracije prednosti različitih
+pristupa u jedinstven sistem za automatsko prepoznavanje govornih emocija, tako da je predložena
+paralelna multiklasifikatorska struktura sa kombinatornim pravilom koje pored rezultata klasifikacije
+pojedinačnih klasifikatora ansambla koristi i informacije o karakteristikama klasifikatora. Takođe,
+dat je predlog automatskog formiranja ansambla klasifikatora proizvoljne veličine upotrebom
+redukcije dimenzija zasnovane na Fibonačijevom nizu brojeva.

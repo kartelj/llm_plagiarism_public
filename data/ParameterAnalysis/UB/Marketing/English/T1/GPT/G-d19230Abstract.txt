@@ -1,0 +1,15 @@
+'This dissertation proposal examines the assistance provided for operational production planning in small to medium business enterprises, otherwise known as SMEs, with a particular focus on scheduling activities, which are considered the most complex operational planning challenges. SMEs represent the majority of companies in Serbia and the European Union, making them crucial in the manufacturing sector. 
+
+The common types of production in SMEs are on-demand or process-based production, with the Job Shop scheduling issue playing a critical part in daily or short-term production planning. Given the links between operation production planning and the transformation of raw materials and partly manufactured goods, managing resources properly in the production process is vital. 
+
+This dissertation proposal reviews fundamental theoretical concepts such as support for SMEs, management within these enterprises, production planning and the management of resources. It seeks to define operational production planning's activities and tackles production scheduling issues, determining task sequences on machines and time allotments for operations. 
+
+Due care is given to improving scheduling exercises, to establish an operational planning process that suits a given enterprise's needs. Widely faced problems in operational production planning, along with solution models, methods, and techniques, are highlighted, noting that many tasks are NP-hard (non-deterministic polynomial) problems of operational research, making their resolution quite complex. 
+
+An analysis of relevant scientific literature serves as pivotal to the study, with papers carefully selected to identify scientific advancements in operational production planning. A critical literature review justifies the need for a new research project. 
+
+The proposal assumes SMEs in Serbia lack adequate operational production planning practices. Survey results from 79 companies show a lack of modern operational management methods and resource management techniques. This implies a demand for improved support in operational planning and resource management. 
+
+The dissertation formulates a six-phase model of assistance for operation planning and resource management in SMEs. This includes identifying SME problems, defining the support goal, creating a support package, monitoring its use, providing the support, and assessing its effectiveness. 
+
+The proposal focuses on a specific scheduling problem prevalent in small-scale manufacturing, otherwise known as Dual Resource Constrained Flexible Job Shop. The problem has been modeled in the MatLab numerical computing environment and programming language. To address the problem, a multi-objective genetic algorithm metaheuristic known as NSGA-II (Non-dominated Sorting Genetic Algorithm II) was utilised. The use of the metaheuristics provided significant improvements to DRCFJS problem-solving, which will be further discussed within the dissertation.'

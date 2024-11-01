@@ -1,0 +1,9 @@
+'Ova doktorska disertacija se fokusira na razvoj i praktičnu primenu novog modela za interni kreditni rejting u segmentu velikih i srednjih preduzeća u Srbiji. Njen glavni cilj je kvantifikacija kreditnog rizika preduzeća kroz novi model kreditnog skoringa i procena njihovog boniteta putem novoustanovljenog modela za interni kreditni rejting. 
+
+Osnova za istraživanje su bio sedmogodišnji finansijski podaci velikih i srednjih preduzeća u Srbiji, sakupljeni između 2006-2012.godine, iz kojih je proistekla kvantifikacija verovatnoće difolta, uzimajući u obzir specifičnosti srpskog tržišta. 
+
+Tokom ovog doktorsko rada, autor je uspostavio originalnu metodologiju i abordirao tri glavne oblasti: analizu velikog broja finansijskih racija, identifikaciju najprediktivnijih finansijskih racija u Srbiji koristeći višegodišnje podatke, i primenio transformaciju finansijskih racija kako bi razvio model kreditnog skoringa.
+
+Rezultat istraživanja je novi model kreditnog skoringa, koji predviđa verovatnoću difolta preduzeća i pokazuje veću prediktivnu moć u odnosu na strane modele poput Altmanovog Z-skor modela. Kao finalni rezultat, predstavljen je model za interni kreditni rejting koji koristi prethodno razvijen model kreditnog skoringa.
+
+Svi rezultati i modeli su validirani prema relevantnoj akademskoj literaturi i novim Bazelskim standardima, i kroz retrospektivu su verifikovane inicijalne hipoteze ove doktorske disertacije. Kreditni rizik je izračunat po principima Bazela II i III.'

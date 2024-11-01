@@ -1,0 +1,11 @@
+Parallel knowledge tests are interchangeable assessments with similar measurement properties, consisting of varying sets of questions or tasks. These tests are useful when multiple test-takers are involved, regardless of whether they take the test simultaneously or at different times. The results must be comparable. Automating the assembly of parallel tests is crucial for maintaining objectivity and minimizing subjective errors by the examiner. This automation also saves time, especially in large-scale testing scenarios. 
+
+The automated parallel test assembly problem (APTA) is a complex combinatorial optimization problem, requiring the use of heuristics. The APTA problem shares similarities with other combinatorial optimization problems, so existing heuristics can be applied. This dissertation reviews the current problem formulations, mathematical models, and heuristics used to solve these problems. 
+
+The heuristics used to solve APTA problems are primarily improvement heuristics, which are halted when a set execution time is reached or the desired solution quality is achieved. Constructive heuristics are mainly used to generate an initial solution for improvement heuristics. 
+
+This dissertation proposes a new efficient method with polynomial complexity for fully solving the APTA problem. This method adapts a constructive heuristic proposed by Nawaz, Enschore, and Ham to solve a formulation of the bin packing problem. The new method is characterized by predictable execution time, efficiency, and ease of implementation. 
+
+This is particularly important in educational settings where frequent testing of a small number of test-takers is conducted and computer resources for APTA are limited. The proposed APTA method has been implemented and compared to efficient comparable methods based on improvement heuristics, such as simulated annealing (SA) and variable neighbourhood search (VNS). 
+
+The proposed algorithm significantly reduces execution time compared to the SA algorithm, with only a slight decrease in quality. When compared to the VNS algorithm, the proposed algorithm has a significantly shorter average execution time and produces better quality results for smaller numbers of parallel tests and item banks, which are common in educational testing.

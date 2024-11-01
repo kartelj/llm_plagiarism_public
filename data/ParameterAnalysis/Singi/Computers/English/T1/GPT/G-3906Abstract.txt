@@ -1,0 +1,13 @@
+The cloud computing paradigm, similar to the network computing paradigm, relies on resource clustering and utilizing network and internet technologies. It's a revolutionary method for delivering computing resources in the form of services, including data, software, and hardware elements like processing units, memory, and storage. This contemporary and crucial interdisciplinary field is well-represented in cutting-edge international journals and featured prominently at top-tier international conferences. 
+
+A multitude of challenges and issues are associated with cloud environments, such as the scheduling of end users' requests on a finite pool of resources or virtual machines. A task's scheduling strategy is defined by its execution plan on available resources, considering potential constraints and objective functions. Scheduling algorithms, either static or dynamic, handle this task. 
+
+Static scheduling, which does not allow for dynamic task switching from higher to under-utilized virtual machines, allocates tasks for execution before running the algorithm. Meanwhile, dynamic scheduling methods or 'load balancing' approaches neatly redistribute workloads amongst active virtual machines during the algorithm's runtime. 
+
+Solutions for such scheduling and load balancing issues are classified as complex NP-hard combinatorial and/or global problems that can occur with or without restrictions. Dynamic scheduling predominantly uses heuristic and metaheuristic optimization methods, known for their superior results.
+
+This doctoral thesis intends to establish whether the application of swarm intelligence metaheuristics could further enhance task scheduling and load balancing in a cloud computing environment. The research involved improving and adapting several swarm intelligence metaheuristics for addressing load balancing and task scheduling issues in the cloud.
+
+This research highlighted two improved swarm intelligence algorithms - the monarch butterfly optimization and the whale optimization algorithm. Two task scheduling models were studied within an advanced CloudSim simulator environment, and the effectiveness of the algorithms was tested using both artificial data generated on the CloudSim platform and real data from a publicly accessible benchmark database.
+
+Comparative analysis of the results demonstrated that swarm intelligence algorithms could significantly improve task scheduling and load balancing in cloud computing, validating the fundamental theory of the thesis.

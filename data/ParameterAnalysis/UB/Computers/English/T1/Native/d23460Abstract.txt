@@ -1,0 +1,28 @@
+User-generated content on Web forums is added much more often than it is deleted or
+changed, so its targeting during incremental crawling differs from the Web site pages crawling.
+Adding new content to a forum can result in moving existing content to new or existing pages.
+Incremental forum crawling is not a trivial task, because ignoring in which way the content is
+presented, distributed and sorted can lead to the transfer of posts that have already been indexed in
+the previous crawl cycles. On the other hand, there is a wide spectrum of forum technologies that
+allow different navigational paths to its latest posts, as well as different ways of presenting and sorting
+user generated content.
+This thesis presents Structure-driven Incremental Forum crawler (SInFo) that specializes in
+targeting the latest content in incremental forum crawling using advanced optimization techniques
+and machine learning. The main goal of the presented system is to avoid already indexed content in
+new crawling cycles regardless of its technology. In order to achieve this, the following Web Forum
+features have been used: (1) the sort method on the index and thread pages and (2) the available
+navigation paths between the pages that the current Web Forum technology offers. Since the date of
+content creation plays an important role in determining the type of sort, their detection and
+normalization is not a trivial task. Machine learning models were used for this task, because the
+generated dates can be in different formats and in different languages. On the other hand, the detection
+of navigational paths is achieved by interpreting the URL format and scanning the pages they target.
+It has been shown that using the proposed methods and techniques while targeting pages with
+the latest content can achieve a minimum number of duplicate content downloads and maximize the
+utilization of the navigational structure and paths of the current forum technology. The experiments
+were performed on a wide range of already existing popular forum technologies as well as on
+individual stand-alone forum technologies. SInFo has demonstrated high precision and a minimum
+number of duplicate content transfers in each new crawl cycle. Most of the duplicates that the
+proposed system encountered are from pages that had to be visited in order to correctly determine the
+navigational path or to find the appropriate URL. Additionally, machine learning models, although
+complex, achieved good performance while crawling and have high accuracy in date detection and
+normalization, reaching an F1-measure of 99%.

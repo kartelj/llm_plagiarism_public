@@ -1,0 +1,23 @@
+'Testovi znanja koji se vrše paralelno su oni testovi koji sadrže različite setove stavki (setove pitanja ili zadataka različitih vrsta) sa otprilike jednakim merodavnim osobinama, što ih čini međusobno zamjenljivim. Koriste se kada se više osoba testira, bez obzira da li se to radi istovremeno ili ne. Rezultati dobijeni testiranjem moraju biti mjerljivi.
+
+Automatizacija procesa creiranja paralelnih testova znanja je vitalna za postizanje objektivnosti testiranja kroz dobro balansiranje merodavnih osobina različitih primjera testa i smanjenje potencijalnih grešaka ispitivača u mjerenju znanja.
+
+Bilo da se vrše masovna testiranja, razvijanje testova paralelno uz pomoć automatizacije donosi više značaja i štedi vrijeme ispitivaču.
+
+Problemi automatskog sastavljanja paralelnih testova (ASPT) uvode se u NP-teške probleme kombinatorne optimizacije, te je korišćenje heuristika očekivano i neophodno.
+
+Problem ASPT je izomorfisan sa nekim postojećim problemima kombinatorne optimizacije, pa se pristupi rešavanja ovih problema mogu upotrijebiti i za rešavanje problema ASPT.
+
+Sadržano je opisivanje formalizacije ovog problema u disertaciji, gde su formalizacije problema i heuristička rješenja nezavisno klasifikovani, a zatim su uvodjeni u otvoreni prostor za istraživanje kroz nove kombinacije problema i algoritama za njihovo rješavanje.
+
+Disertacija je fokusirana na predlog novog efikasnog metoda polinomijalne kompleksnosti za rješavanje problema ASPT.
+
+Karakteristika novog metoda uključuje predvidljivo vrijeme njegovog izvršenja, efikasnost i jednostavnost implementacije, što je od posebnog značaja za institucije koje provode testiranja relativno malog broja ispitanika, a koje imaju ograničene računarske resurse za ASPT.
+
+Implementacija ASPT korišćenjem predloženog metoda je upoređena sa efikasnim metodama koje su zasnovane na poboljšanjima heuristika, kao što su simulated annealing (SA) i VNS. 
+
+Prema otvorenoj literaturi, VNS metoda daje najkvalitetnije rezultate za problem ASPT koji je formulisan kao Problem pakovanja u korpe.
+
+Predloženi algoritam ima znatno kraće vrijeme izvršenja u poređenju sa SA algoritmom, dok je kvalitetno gotovo jednak.
+
+U poređenju sa VNS algoritmom, srednje vrijeme izvršavanja je znatno kraće, dok za isto vrijeme izvršavanja (postignuto prekidom VNS algoritma), novi predloženi algoritam postiže viši kvalitet rješenja za slučaj relativno mali broj paralelnih testova. (20, 30 i 60) i datoteke stavki relativno malih dimenzija (300 stavki).'

@@ -1,0 +1,25 @@
+Ova disertacija opisuje novi sistem za vizuelnu reprezentaciju kriptografskih algoritama pod nazivom COALA. Sistem je razvijen s ciljem da se olakša učenje studenata novajlija u oblasti zaštite podataka, posebno u savladavanju kriptografskih algoritama, koja su osnova za kompleksnije teme. 
+
+Na Elektrotehničkom fakultetu u Beogradu postoji kurs "Zaštita podataka" gde se prvo izučavaju kriptografski algoritmi na kojima se zasnivaju sigurnosni protokoli i aplikacije za obezbeđivanje sigurnosnih servisa. Nakon toga, studenti se upoznaju sa aplikacijama za mrežnu sigurnost, a na kraju se bave problematikom sigurnosti računarskih sistema (hakeri, virusi, itd.). 
+
+Uočeno je da studenti imaju poteškoća u savladavanju materijala iz oblasti kriptografskih algoritama, što negativno utiče na njihov ukupan uspeh na ispitu. Analizom ovog problema došlo se do zaključka da bi uvođenje sistema za vizuelnu reprezentaciju kriptografskih algoritama moglo biti jedno od rešenja. 
+
+Pre razvoja COALA sistema, analizirana su postojeća rešenja da bi se utvrdilo da li postoji sistem koji bi zadovoljio potrebe kursa i koje karakteristike bi takav sistem trebao da ima. Iako postoje brojni sistemi za vizuelnu reprezentaciju algoritama, relativno malo njih omogućava vizuelnu reprezentaciju kriptografskih algoritama. Takođe, nijedan od analiziranih sistema nije u potpunosti zadovoljio potrebe kursa "Zaštita podataka" na Elektrotehničkom fakultetu u Beogradu.
+
+Na osnovu analize postojećih sistema, definisana je metodologija razvoja sistema poput COALA. Analizom literature koja se bavi sistemima za pomoć u učenju, definisan je način korišćenja COALA sistema u nastavi. 
+
+COALA sistem omogućava praćenje izvršavanja svih kriptografskih algoritama koji se obrađuju na predavanjima i vežbama, prikazuje sve detalje izvršavanja za svaki od podržanih algoritama, a za neke algoritme gde je to važno, sistem radi sa realnim veličinama parametara algoritma koje se koriste u praksi. Svi parametri algoritama su konfigurabilni kako bi se mogli lako i brzo prikazati različiti primeri izvršavanja algoritama. 
+
+U disertaciji je napravljen pregled oblasti sistema za pomoć u učenju, pregled oblasti vizuelne reprezentacije algoritama, kao i pregled oblasti vizuelne reprezentacije kriptografskih algoritama. Opisani su kriptografski algoritmi koji su podržani u COALA sistemu, a poseban akcenat je stavljen na objašnjenje detalja vezanih za vizuelnu reprezentaciju algoritama korišćenu u COALA sistemu. 
+
+Prikazan je i detaljan funkcionalni opis COALA sistema za vizuelnu reprezentaciju kriptografskih algoritama. Objašnjeni su i detalji vezani za softversku implementaciju COALA sistema, uključujući pregled tehnologija korišćenih za softversku implementaciju, strukturu softverskog rešenja i detalje napravljenih proširenja Java i Swing API-ja, kao i način izvršavanja algoritama podržanih u COALA sistemu. 
+
+Način korišćenja realizovanog sistema za vizuelnu reprezentaciju kriptografskih algoritama u okviru predmeta Zaštita podataka na Elektrotehničkom fakultetu u Beogradu opisan je kroz pregled osmišljenih laboratorijskih vežbi. U školskoj godini 2013/2014. uvedena je još jedna novina na predmetu, a to je korišćenje sistema Moodle za ispitivanje i ocenjivanje studenata u okviru laboratorijskih vežbi, pa je i to opisano. 
+
+U radu je prikazana i evaluacija COALA sistema sa aspekta efikasnosti prilikom primene na predmetu Zaštita podataka na Elektrotehničkom fakultetu u Beogradu. Sistem se koristi u nastavi u prethodne tri školske godine (uveden je u nastavu 2011/2012. školske godine). Rezultati primene su mereni za prve dve godine korišćenja sistema, s obzirom da je treća školska godina u kojoj se sistem koristi još uvek u toku. 
+
+Evaluacija je podeljena na tri dela. Najpre su mereni efekti uvođenja COALA sistema u nastavu na osnovu uspešnosti studenata na predmetu u prvoj školskoj godini, zatim su upoređeni rezultati korišćenja iz prve i druge godine, a treći deo analize obuhvatio je utisak studenata na osnovu upitnika koji su popunjavali. 
+
+Rezultati evaluacije su pokazali da su najveću korist od uvođenja novog sistema u nastavu imali studenti koji inače odlažu trenutak u kome polažu ispit za kasnije ispitne rokove u toku školske godine kako bi imali više vremena da se pripreme za ispit i koji ne uspevaju da polože ispit ili ga polože ali sa niskom ocenom, kao i najbolji studenti kojima je korišćenje sistema pomoglo da poboljšaju svoje ocene. 
+
+Analiza ankete koju su studenti popunjavali je pokazala da je COALA sistem uspešno ispunio osnovni cilj, a to je da studenti bolje razumeju gradivo i detalje algoritama koji su pokriveni ovim sistemom.

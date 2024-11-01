@@ -1,0 +1,13 @@
+"Between 2008 and 2016, the Serbian banking sector went through some unusual challenges that altered the way liquidity was managed. This paper looks into the implications these harsh market conditions had on the country's commercial banks, particularly how they managed with limited or non-existent liquidity and how this related to the FTP (Funds Transfer Pricing) system. This study also explores the connection between the FTP system and the growth of financial tools and the implementation of Asset and Liability Management (ALM), notably in the Serbian banking sector where there were no mature hedging instruments. 
+
+In addition, it analyses the effects of applying a single model of the FTP system in banks during times of liquidity between 2008 and 2016, along with the introduction and impact of 'best practices' and new regulations such as Basel III. 
+
+A comparative analysis was carried out on two commercial banks operating in Serbia during the banking sector's liquidity crisis in late 2008. The results show a high sensitivity of the banks to both systemic and specific factors, constraints of liquid financing sources, and a limited domestic market that made the cost of funding surge and exacerbated balance maturity mismatches, particularly for Bank B. 
+
+For Bank A, it reveals a similar high sensitivity to systemic risks resulting from the insolvency of the banking sector and its reliance on short-term funds wasn't fully effective. Meanwhile, Bank B experienced an increase in balance maturity mismatches four years later. 
+
+The study highlights how both Bank A and B, faced with an illiquid interbank market, significant deposit losses, increased interest rates, and low regulatory liquidity ratios, took different approaches. Bank A issued shares and changed its ownership structure, while Bank B borrowed funds at prices higher than the market rate and deferred its liquidity problem to the following year. 
+
+This research challenges the first hypothesis that commercial banks have adopted modern liquidity risk management concepts. It was found that many banks rely solely on regulatory requirements in this aspect. The second hypothesis, that the FTP system is sensitive to liquidity conditions and the illiquidity of the banking sector, was also dismissed. 
+
+However, the third hypothesis,that there's a significant correlation between the roles of ALM in commercial banks and the FTP system was supported through empirical analysis and examination."

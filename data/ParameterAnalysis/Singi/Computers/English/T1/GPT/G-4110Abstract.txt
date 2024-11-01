@@ -1,0 +1,13 @@
+Research on the interaction between humans and computers integrates multiple scientific disciplines, including computer science, psychology, social studies, cognitive sciences, and design. This research utilizes modern interfaces that can accommodate a wide range of sensors such as the mouse, keyboard, eye trackers, EEG devices, pulse monitors, and heart rate monitors. 
+
+The focus of the research is the human-computer interaction, specifically the utilization of artificial intelligence in analyzing and assessing participants' cognitive performance. Owing to its capabilities in surpassing human data processing speeds, the system can deliver real-time feedback, thus participating actively in the interaction. 
+
+An artificial intelligence model for compiling and analyzing human-computer interaction data was demonstrated via four cognitive performance evaluations of participants, using neuropsychological tests - Wisconsin Card Sorting Test (WCST), Visual Short Term Working Memory Test (VSTWMT), mTutor Test and the AC Test. 
+
+Individual client applications, able to connect to sensor applications through the Synchronization Platform (HCI-MAP), were developed for each experiment. Data collection equipment included an EEG device, an eye tracking device, and a computer mouse. Results from these evaluations pointed to some variances from reference values, however, they provided valuable insights into participant performance and behavior. 
+
+Our research also delved into the effect of altering the question type, where it was concluded that the emotional state of subjects can be influenced, thereby impacting their performance. 
+
+The AC test evaluated the level of attention, differentiating between important and distractive stimuli. The presence of a high correlation between the gaze position and mouse cursor movement was noted. 
+
+The findings indicate that the application of artificial intelligence in the analysis of human-computer interactions can potentially yield comparable, or perhaps superior results than traditional human analysis. Furthermore, machine-led analysis can gauge cognitive performance of users in a distributed system providing real-time feedback.

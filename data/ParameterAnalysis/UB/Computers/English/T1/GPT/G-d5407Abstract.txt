@@ -1,0 +1,15 @@
+This paper outlines a methodological strategy for constructing a telecommunication company's information system based on certain models. It integrates common IS development methods and a unique initiative in the telecommunication sector. The methodological strategy is rooted in a telecommunication-specific software product line, which allows the effective creation of a Telecommunication Company's IS via three unique processes: general domain engineering for the telecommunication domain, domain engineering for a specific type of telecom service, and application engineering.
+
+It draws on several approaches, such as MDA (Model Driven Architecture), EA (Enterprise Architecture), NGOSS (New Generation Operations Systems and Software), and SPL (Software Product Line). The approach uses the TOGAF (The Open Group Architectural Framework), the best-known framework and method for enterprise architecture development for EA.
+
+In terms of complexity within telecommunication domains, this framework encompasses functional domains, integrated process areas, types of Telecommunication Services, IS Development Life-Cycles Phases, and Specific Telecom Operators IS developments. The work underlines the need to understand and define these complex dimensions, as well as their interrelations and sequence transitions.
+
+The methodology is built upon the eTOM and SID NGOSS Framework, providing a classification of the telecom domain into sub-domains and dependencies across the system. A basic mechanism, named “Multi-level Staged Configuration,” is also discussed to address the telecom domain's complexity and ensure a smooth transition between sub-domains. It develops a system for the multi-level staged configuration of these telecommunication domains.
+
+The process includes specific domain engineering due to the multidimensionality of the telecom domain. This involves general and specific domain engineering. The former includes defining systems such as Horizontal Multi-level Staged Configuration (HMLSC) and Vertical Multi-level Staged Configuration (VMLSC). It also deals with the creation of specific models in different sub-domains.
+
+For specific domain engineering, rules and procedures have been developed for defining models and processes for typical services using methods established in general domain engineering. This includes configuration and generation of UML models of class diagrams and activity diagrams.
+
+In terms of application engineering, it focuses on specifying and generating specific IS operators. The methodology helps address several issues in IS development, such as IT and Business Alignment, the multidimensional complexities of the telecom domain, issues arising from business dynamism, and mass customization of services. It also assists in model transformation, a major issue in the MDA approach.
+
+In conclusion, the presented methodological approach aids in efficient IS development and has potential as a standard method for IS development. It concludes by discussing the pros and cons of various approaches used and the benefits of the proposed method.

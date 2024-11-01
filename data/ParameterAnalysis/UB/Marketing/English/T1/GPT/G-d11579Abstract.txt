@@ -1,0 +1,9 @@
+This PhD thesis comprises three interconnected sections, aside from the introductory part and the concluding section that includes suggestions for future research. Each part contains its own unique conclusion. 
+
+The first section, which includes chapters 2-5, begins with explanations of quality metrics, human capital, and social connections, followed by an exploration of their mutual associations. Human capital is defined by our abilities and their intrinsic values. Despite multiple attempts to determine a universal definition and classification system for human capital, no global consensus has been reached. It is increasingly apparent that the concept of social capital, or the measure of relationships and societal networks, is inextricably linked to human capital. 
+
+The next section introduces promising frameworks for significantly shaping future methods of human and social capital management. This segment liberates traditional management theories by imbibing concepts from diverse fields to propose a fresh perspective grounded on the complexity theory. This novel approach promotes sustainable development, while providing a broad platform for aligning staff behavior.
+
+In the final section, a detailed account is provided on the development of the quality metric model for this research project. To accomplish this, it was necessary to innovate fresh data sources. The research methodology consisted of a two-pronged approach of data collection and resulting in proof of all three hypotheses. 
+
+Evidence highlights that Serbian PhDs residing overseas eclipse their peers back home in terms of scientific output and language proficiency. However, the latter group exhibits greater allegiance to their wider community, traditions, and heritage. The study revealed a heightened fear among PhDs in Serbia of the possibility that current global consumption trends may lead to a collapse, despite strides made in scientific advances.

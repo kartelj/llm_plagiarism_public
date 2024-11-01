@@ -1,0 +1,17 @@
+This thesis explores the discovery of fuzzy functional dependencies within fuzzy relational database models. It aims to review and analyze recent findings in this field, while also developing our own algorithm to identify dependencies between attributes in fuzzy relations, using fuzzy logic implication. Although this issue has been explored in the past, there is a lack of algorithms capable of identifying attribute relationships in relational schemas. This gap in the research prompted the development of our methodology to analyze fuzzy functional dependencies across a set of attributes. 
+
+Addressing this problem is not only theoretically significant, but also has practical implications. The application of logical database models and their integration into other fields are key goals of this paper. We initially hypothesized that fuzzy set theory and a specific fragment of fuzzy logic would be ideal for database managers who struggle to clearly define relationships between data and attributes within a relation. 
+
+In the realm of artificial intelligence, fuzzy sets and fuzzy logic are examined in the context of fuzzy relational database design within intelligent systems. This is because these tools are effective for handling and representing imprecise and uncertain information. Identifying potential dependencies between attributes in fuzzy relations is a technique related to revealing hidden and useful knowledge for decision making. 
+
+This thesis introduces a new method for identifying dependencies between tuple pairs using various fuzzy implications, as characterized by the author. Fuzzy implications that meet established acceptance criteria are used to estimate linguistic strength θ when a fuzzy functional dependency X  Y is fulfilled. 
+
+To demonstrate our methodology and verify our research, we conducted an experiment on real data under two different models: a fuzzy database model based on proximity relation, and a fuzzy database model with a possibility distribution. 
+
+Identifying fuzzy functional dependencies within fuzzy database models requires several steps: data preparation for analysis, finding subrelations on observed attributes with potential hidden fuzzy functional dependencies, associating fuzzy functional dependencies with corresponding fuzzy implications, and interpreting search results to get the final set of fuzzy dependencies. 
+
+One potential drawback is the total number of transactions that need to be computed, which can be costly for large databases. However, our research proposes and demonstrates that it is possible to increase the algorithm's efficiency and reduce the number of computed transactions. 
+
+Our research provides insights into how to extract intelligent information from fuzzy relational databases. The most significant contribution of this thesis is the characterization of fuzzy set theory and fuzzy implications in the context of developing tools and algorithms to identify attribute relationships in observed relational schemes. 
+
+This paper is an empirical study and a "proof-of-concept", without developed commercial software. We also discuss practical cases where this methodology could be applicable. Our experiments suggest that the results provided by the algorithm are acceptable. Future research will explore applications of this methodology in various scenarios, such as estimating null values in relational databases, text mining, and extracting dependencies from practical knowledge databases.

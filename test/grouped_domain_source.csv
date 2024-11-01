@@ -1,0 +1,17 @@
+language,features,domain,source,accuracy
+English,char_4,Computers,Singi,0.836045642
+English,char_4,Computers,UB,0.926300037
+English,char_4,Marketing,Singi,0.898335204
+English,char_4,Marketing,UB,0.926767677
+English,word_1,Computers,Singi,0.868873924
+English,word_1,Computers,UB,0.940609802
+English,word_1,Marketing,Singi,0.928918818
+English,word_1,Marketing,UB,0.941451553
+Serbian,char_4,Computers,Singi,0.692947999
+Serbian,char_4,Computers,UB,0.770295548
+Serbian,char_4,Marketing,Singi,0.702300786
+Serbian,char_4,Marketing,UB,0.789281706
+Serbian,word_1,Computers,Singi,0.718668163
+Serbian,word_1,Computers,UB,0.823325851
+Serbian,word_1,Marketing,Singi,0.740086046
+Serbian,word_1,Marketing,UB,0.835765058

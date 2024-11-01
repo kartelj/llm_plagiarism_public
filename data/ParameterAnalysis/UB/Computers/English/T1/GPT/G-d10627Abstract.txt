@@ -1,0 +1,9 @@
+The primary focus of this doctoral thesis lies in the creation of a new methodological framework and tangible application of an internal credit rating model for Serbia's medium and large-sized companies. The ultimate aim is to quantify the credit risk of these Serbian firms by deploying an innovative credit scoring model and assessing the company's credit quality using the newly developed internal credit rating model. 
+
+The data that forms the foundation of this research is derived from seven years of financial statements, inclusive of balance sheets and income statements from Serbian firms from 2006 up to 2012. This data allows for calculation of the probability of default by taking into account the unique attributes of the Serbian market and its business environment.
+
+Relying on novel and author-originated methodology, this doctoral dissertation is comprehensive and spans three key areas. The first of which includes an in-depth analysis of a wide range of financial ratios and identifying the most predictive financial ratio in Serbia based on the available historical data. This data has been transformed to aid the creation of the credit scoring model.
+
+The main outcome is a newly proposed credit scoring model which effectively quantifies the likelihood of default. This model surpasses the predictive prowess of previous models, such as the Altman Z-Score model, used internationally. 
+
+Finally, by applying an original approach, an internal credit rating model synthesising results from the prior credit scoring model was established. The developed models and their outputs have undergone a validation process, following guidelines recommended by existing academic literature and the new Basel Capital Accord standards. Credit risk weights were calculated according to the principles of Basel II and III. All research findings have corroborated the initial hypothesis of this doctoral dissertation.

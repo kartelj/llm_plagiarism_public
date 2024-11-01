@@ -1,0 +1,13 @@
+This dissertation introduces a new system for the visual representation of cryptographic algorithms, called CryptOgraphic Algorithms visuaL simulAtion (COALA). The primary aim of this system is to facilitate a better understanding of cryptographic algorithms for students new to data security, as these algorithms form the basis for more complex topics. 
+
+At the University of Belgrade's School of Electrical Engineering, a course titled 'Data Security' covers a range of topics from cryptographic algorithms to system security. It has been observed that students often struggle with the material related to cryptographic algorithms, which negatively affects their overall exam performance. A potential solution to this issue, identified through careful analysis, is the introduction of a visual representation system for cryptographic algorithms as part of the course's laboratory exercises. 
+
+Such systems are commonly used in computer engineering and information system courses. Before developing COALA, an analysis of existing solutions was conducted to determine if a system that met the needs of the 'Data Security' course already existed, and to identify the necessary features for an effective educational tool. 
+
+Despite the abundance of Algorithm Visualization (AV) systems, very few are available for the visual representation of cryptographic algorithms, and none fully met the needs of the 'Data Security' course. This led to the proposal of a methodology for developing such a system, based on a comprehensive analysis of existing AV systems. 
+
+The system developed allows for a detailed analysis of all cryptographic algorithms taught in the course, presenting all execution details of supported algorithms. It works with real-world algorithm parameter lengths and all input parameters in the algorithms are configurable, enabling easy demonstration of algorithm execution on different examples. 
+
+The dissertation includes overviews of the eLearning tools field, systems for visual representation of algorithms (AV systems), and systems for visual representation of cryptographic algorithms. It also presents a description of the cryptographic algorithms supported by COALA, which include five different types: substitution, transposition, production, symmetric block, and public-key algorithms. 
+
+The dissertation places particular emphasis on explaining the visual representation used in COALA. It also provides a detailed functional description and information about the software implementation of the COALA system.

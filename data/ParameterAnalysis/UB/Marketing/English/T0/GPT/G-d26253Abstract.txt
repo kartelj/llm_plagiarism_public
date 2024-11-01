@@ -1,0 +1,11 @@
+Historically, it was assumed that the primary function of business organizations globally was to generate profit. However, this assumption has been challenged in recent years, particularly as some highly profitable organizations have gone bankrupt. This raises the question: "What is required for an organization's sustainability?" Past research has proposed several models to aid in the development of sustainable business strategies. The goal of this doctoral dissertation was to define a new model for organizational sustainability using multi-criteria decision-making models to aid in strategic decision-making. 
+
+The research was conducted in several stages. The initial stage involved a literature review to gather information on indicators relevant to strategic decision-making. This was followed by an investigation of indicators used in the annual sustainability reports of top-rated global companies. 
+
+150 indicators were selected and categorized based on the Balanced Scorecard model, and the research was conducted with the involvement of strategic decision-makers. The results were analyzed using PCA and Varimax rotation to identify any correlations or groupings among the indicators. 
+
+The analysis revealed eight perspectives that accounted for 69.38% of the total sample. The indicators that best represented these perspectives were then selected. The fuzzy DEMATEL methodology was used in the next stage to calculate the cause-and-effect relationships between the selected indicators. 
+
+The findings suggest that an organization's sustainable strategy depends on eight perspectives. The learning perspective, best represented by the "Exchange of Organizational Knowledge" indicator, was found to be the most significant. This was followed by the leadership perspective, and then by sustainability, process, socially responsible business, growth/market, clients, and finances, in that order. 
+
+The application of this model should enhance an organization's chances of sustainability in the future.

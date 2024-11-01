@@ -1,0 +1,11 @@
+This dissertation investigates the profitability of agricultural enterprises in Serbia, identifying key determinants of profitability and their effects. It delves into the unique aspects of agriculture and agricultural production, the sector's significance for economic development, and the role of agricultural enterprises in fostering agricultural growth. The study contrasts traditional and modern approaches to assessing company performance, providing a theoretical explanation of their fundamental standards. 
+
+The research combines theoretical and empirical methods, drawing on findings from both local and international authors. The empirical analysis is based on regular financial reports from agricultural enterprises and various reports on individual macroeconomic variables. The study sample comprises 151 enterprises engaged in primary agricultural production, spanning from 2014 to 2018. 
+
+The statistical analysis reveals that these enterprises generally operated successfully, turning a profit throughout the observed period. However, profitability varied across different indicators, suggesting differences in success among enterprises and over time. 
+
+The dissertation aims to identify why some enterprises are profitable while others are not. It considers internal determinants of profitability, such as company size, liquidity, indebtedness, sales growth, and asset materiality, as well as external determinants like gross domestic product and inflation. 
+
+The econometric panel model technique was used to analyze data from both temporal and spatial perspectives, ensuring a comprehensive, efficient, and objective evaluation. The study confirmed that all variables used are stationary, with no high correlation or multicollinearity issues, and no heteroskedasticity or autocorrelation problems in the regression model. 
+
+The results indicate that company size positively impacts the rate of return on assets, while liquidity, indebtedness, gross domestic product, and inflation negatively impact profitability. Sales growth and asset materiality, however, do not significantly affect the rate of return on assets. These findings will aid the management of the analyzed enterprises and other stakeholders in making informed future business decisions.

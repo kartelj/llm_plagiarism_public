@@ -1,0 +1,13 @@
+The Distance Learning System (DLS) is a modern educational concept that's quickly becoming universally accepted. This system is based on various modules, such as tutoring and assistance, emotion recognition and tracking, and motivation, which all work together based on system feedback. The DLS's modular design is crucial for its adaptability, automation, and self-adjustment processes. 
+
+This innovative DLS approach has facilitated the widespread adoption and enhanced functionality of current Learning Management Systems (LMS). LMS are used to create, manage, implement, and assess classes in relation to the educational environment. Identifying the educational environment and preparing for classes begins with understanding the qualities of students and student groups, and categorizing them based on their predispositions, previous knowledge, and orientation. 
+
+During classes, particularly when faced with challenging mathematical problems, students may experience confusion and misunderstandings. This can lead to a range of emotions, distraction, and reduced concentration and motivation. When this happens, the DLS and its modules signal any irregularities and any decline in the quality of study that no longer meets the individual needs of each student. 
+
+The correctional functions module can help address these issues. Therefore, it's crucial to identify the characteristics of students and the relevant factors of the educational environment from the outset. Each student or student group must be assigned the appropriate combination of DLS modules to successfully follow the course and provide a quality assessment at the end.
+
+All the various factors defining the educational environment need to be specified with weighting coefficients due to their consequential effects. It's vital to develop mathematical modules based on two types of information to provide an appropriate grade for each student in the distance learning program. 
+
+The first type of information includes input data, such as grade point average, previous subject grades, and student motivation levels. The second type of information is based on the emotional reactions students display when faced with course tasks and assignments.
+
+Moreover, it's necessary to develop mathematical models that include multi-criteria grading for different distance learning platforms. The goal is to correlate specific situations with the teaching process for the benefit of individual students or student groups. However, the multi-criteria grading method can't always be used due to its structural limitations. Therefore, to achieve optimal results, a unique grading method is created for each specific educational environment.

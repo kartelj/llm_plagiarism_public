@@ -1,0 +1,13 @@
+The explosion of data and devices has triggered a swift evolution in technology and machine learning algorithms used for data analysis and processing systems. The performance of such systems hinges on the quality of the data, the chosen algorithm, and the settings of that algorithm - specifically when dealing with a significant volume of data. 
+
+Data anomalies, which are outliers in the data distribution and affect data quality, can be identified by machine learning algorithms. The selection of the algorithm and its settings for anomaly detection are reliant mainly on the system creator or domain expert's proficiency. Given the frequent lack of sample data with labelled anomalies in real-world scenarios, selecting the ideal algorithm for anomaly detection is not a straightforward task. 
+
+Algorithm selection can be automated for anomaly detection tasks by employing automated machine learning (AutoML) systems, which recommend an algorithm based on the data and meta-features. An increasing number of studies are providing insight into AutoML frameworks, emerging as a viable solution for developing intricate machine learning models without the need for human expertise. 
+
+One of the primary challenges of an AutoML framework is identifying the optimal model for a task and optimization metric - this can be achieved through a meta-learning approach that utilizes a compilation of meta-features describing data properties. The current meta-learning methods based on statistical and information-theoretic meta-features demand a significant amount of data and computational resources. 
+
+This doctoral research focuses on creating a scalable system for extracting meta-features founded on domain-specific knowledge. The goal is to assess the suggested meta-features by comparing them against existing solutions in terms of complexity, and to design experiments to generate results for future automated machine learning research. 
+
+According to a review of experimental results, the proposed meta-features reach an accuracy of 87% and fulfill the essential requirements for application in AutoML systems, while existing solutions only reach an accuracy of 73%. However, when there is a low volume of datasets available for evaluation, the proposed solution's performance declines by 25% when compared to existing solutions. 
+
+The research's value lies in the potential to implement AutoML systems based on the proposed meta-features. In instances where labeled anomaly sample data is unavailable or absent, the data creator or domain expert can efficiently identify anomalies in the data using domain-specific knowledge.

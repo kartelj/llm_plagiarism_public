@@ -1,0 +1,11 @@
+This thesis presents a new and more efficient method for accessing pixels in SIMD (Single-Instruction Multiple-Data) processors, commonly used for image and video data processing, through a novel parallel on-chip memory subsystem and architecture. Existing forms of accessing pixels have often resulted in performance issues.
+
+The new functionalities of this subsystem, such as the new block and row access modes, better meet the demands of image and video processing algorithms. By exploiting areas of overlap in blocks or rows, the number of memory read and write accesses is significantly reduced, thereby increasing processing speed for sub-pixel block-matching motion estimation, pixel interpolation for motion compensation, and spatial window-based filtering.
+
+This new access mode not only increases processing speed, but also offers a more energy-efficient processing solution, due to the reduction in repeated pixel accesses. Despite the wider memory read operations required, the memory reading operation is designed to split all accessed pixels into multiple SIMD-wide blocks/rows for more efficient processing.
+
+To prove the effectiveness of this system, a cost and size-conscious architecture was created to support the new access modes, in addition to existing parallel memory subsystems. This architecture is based on a set of memory banks, a shifted pixel arrangement, and control logic for efficient programming.
+
+The benefits of this new memory subsystem have been demonstrated both theoretically and practically, with performance under tests revealing 40 - 70% higher throughput and 17 - 44% less energy consumption compared with six of the most advanced existing subsystems. Furthermore, this innovative subsystem delivers 1.8 - 2.9 times more efficiency by reducing the number of on-chip memory accesses by 1.6 - 2.1 times.
+
+Such remarkable efficiency has led to its adoption in the most high-tech Intel processors and systems for imaging and video processing in mobile devices, and improvements continue to be made for future Intel processors.

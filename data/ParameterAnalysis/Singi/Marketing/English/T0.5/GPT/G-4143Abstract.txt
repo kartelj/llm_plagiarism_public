@@ -1,0 +1,13 @@
+This dissertation explores the profitability of agricultural enterprises in Serbia, identifying key profitability determinants and their influence. It theoretically discusses the unique aspects of agriculture and its production, the sector's economic significance, and the role of agricultural enterprises in advancing agriculture. The study also explains the differences between traditional and modern company performance measurement approaches and outlines their basic standards. 
+
+The dissertation employs both theoretical and empirical research, drawing on studies by local and international authors to support the theoretical analysis. Empirical analysis was based on regular financial and macroeconomic variable reports. The study sample comprised 151 primary agricultural production enterprises, spanning from 2014 to 2018. 
+
+Statistical analysis demonstrated that these enterprises generally operated successfully, consistently making a profit. However, profitability varied between enterprises and over time. The dissertation aimed to identify the reasons behind these profitability differences. 
+
+Statistically significant profitability determinants used in most research were applied. The internal determinants considered were company size, liquidity, indebtedness, sales growth, and asset materiality. External determinants were gross domestic product and inflation. 
+
+The econometric panel model technique was used to examine data from both temporal and spatial perspectives, ensuring information richness, indicator efficiency, and conclusion objectivity. Before determining individual determinant influences on profitability, the study confirmed that all variables used were stationary, with no high correlation or multicollinearity issues. There were also no heteroskedasticity and autocorrelation issues in the regression model. 
+
+The study concluded that the fixed effect regression model was most suitable. It revealed that company size positively influences return on assets, while liquidity, indebtedness, gross domestic product, and inflation negatively impact profitability. Sales growth and asset materiality showed no significant effect on return on assets. 
+
+The empirical research results will assist the management of the analyzed enterprises and other users in making future business decisions.

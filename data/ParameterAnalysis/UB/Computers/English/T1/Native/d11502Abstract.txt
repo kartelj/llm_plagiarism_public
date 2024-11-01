@@ -1,0 +1,50 @@
+Accessing pixels in memory is a well-known performance bottleneck of SIMD
+(Single-Instruction Multiple-Data) processors for image and video processing. This
+thesis proposes a new solution of a parallel on-chip memory subsystem, including
+new functionalities and an enabling architecture, which enables a higher processing
+throughput and consumes less energy per processed pixel than the other state-of-
+the-art subsystems.
+The thesis first presents new functionalities of a parallel memory subsystem, i.e.
+new block and row access modes, which are better adjusted to the needs of image
+and video processing algorithms than the functionalities of existing parallel mem-
+ory subsystems. The new access modes significantly reduce the number of on-chip
+memory read and write accesses, and thereby accelerate the imaging/video kernels
+that are in focus of this work: sub-pixel block-matching motion estimation, pixel in-
+terpolation for motion compensation, and spatial window-based filtering. The main
+idea of the new access modes is to exploit spatial overlaps of blocks/rows accessed in
+the memory subsystem, which are known at the subsystem design-time, and merge
+multiple accesses into a single one by accessing somewhat more pixels at a time than
+with other parallel memories. To avoid the need for a wider, and therefore more
+costly SIMD datapath, this work proposes new memory read operations that split
+all pixels accessed at a time into multiple SIMD-wide blocks/rows, in a convenient
+way for further processing. In addition to a higher processing throughput, the new
+access modes reduce the energy consumed by the parallel memory subsystem for the
+same amount of processed pixels, by reducing the number of repeated accesses of
+the same pixels.
+Second, as a proof of concept and for the completness of the proposed solution,
+the thesis describes a parametric, scalable, and cost-efficient architecture that sup-
+ports the new access modes, as well as access modes of existing parallel memory
+subsystems. The architecture is based on: 1) a previously proposed set of memory
+banks with multiple pixels per addressable word of a bank, 2) a previously proposed
+shifted scheme for arranging pixels in the banks that enables parallel access to all
+pixels of a block/row, and 3) control logic that implements the shifted scheme in the
+memory banks and the access modes, and thus provides a convenient and efficient
+programming interface.
+The advantages of the proposed solution of a parallel memory subsystem are an-
+alytically and experimentally demonstrated on a case study of well-known 3DRS
+sub-pixel block-matching motion estimation algorithm, commonly used for real-
+time frame-rate conversion during video playback. The implemented block-matcher,
+basedontheproposedparallelmemorysubsystem,isabletoprocess3840∗2160video
+at the rate of 60 frames per second, while clocked at 600 MHz. Compared to the
+block-matcher implementations based on the six state-of-the-art subsystems and the
+same SIMD datapath, this work enables 40 – 70% higher throughput, consumes 17 –
+44% less energy, and has similar silicon area and off-chip memory bandwidth costs.
+That is 1.8 – 2.9 times more efficient than the prior state-of-the-art, calculated as
+the ratio between the achieved processing throughput and the product of all costs:
+energy consumption, silicon area, and off-chip memory bandwidth. Such a high
+efficiency is the result of the new access modes and the cost-effective architecture,
+which reduced the number of on-chip memory accesses by 1.6 – 2.1 times.
+Thanks to its proven efficiency, the proposed parallel memory subsystem is used
+inthemostrecentandmostadvancedIntelprocessorsandsystems-on-chipforimag-
+ing and video processing on mobile devices. Furthermore, it is being continuously
+improved for use in future generations of Intel processors.

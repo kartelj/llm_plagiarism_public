@@ -1,0 +1,24 @@
+Ova disertacija u prvom delu analizira protokole rutiranja u topologijama data
+centara. Posebna pažnja je posvećena dvofaznim protokolima rutiranja koji u pravilnim
+topologijama data centara sa velikim brojem alternativnih putanja omogućavaju
+izbegavanje zagušenja u mreži. U disertaciji je predložen novi algoritam za
+optimizovano dvofazno balansiranje, LB-ECR, koji omogućava bolje iskorišćenje
+komunikacionih mreža data centra. Korišćenjem metoda linearnog programiranja LB-
+ECR maksimizuje protok bez gubitaka za date saobraćajne zahteve svičeva. LB-ECR se
+oslanja na ECMP rutiranje koje je uobičajeno u data centrima jer koristi alternativne
+putanje iste cene. Dvofazno balansiranje omogućava pojednostavljenje linearnog
+modela eliminacijom saobraćajnih tokova i smanjuje mogućnost zagušenja
+raspoređivanjem saobraćaja po manje iskorišćenim linkovima mreže. Pojednostavljenje
+linearnog modela omogućava njegovo rešavanje za mreže velikih data centara.
+Disertacija sadrži pregled topologija i načina rutiranja u data centrima i rezultate
+poređenja različitih algoritama rutiranja u tipičnim topologijama data centara.
+Pored optimizacije rutiranja, disertacija razmatra algoritme ažuriranja lukap
+tabela rutera. Drugi deo disertacije sadrži pregled lukap algoritama i algoritama
+ažuriranja, i ispitivane su performanse ažuriranja dva napredna lukap algoritma.
+Izvedene su formule za proračun najgoreg slučaja zauzeća memorija lukap bloka, dok
+rezultati simulacije pokazuju zauzeće memorije za tipične tabele rutiranja. Prikazani su i
+rezultati broja pristupa memorijama lukap bloka u toku ažuriranja, kao i kompleksnost
+algoritama ažuriranja i vreme izvršavanja za tipične tabele rutiranja.
+Treći deo disertacije obuhvata opis implementacija algoritama rutiranja sa
+balansiranjem i algoritama ažuriranja lukap tabela, kao i načina integracije ovih
+implementacija u okviru rutera.

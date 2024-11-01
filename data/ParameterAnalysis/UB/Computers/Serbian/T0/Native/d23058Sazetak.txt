@@ -1,0 +1,18 @@
+Fenomen emotivnog govora retko je modelovan u dosadašnjem istraživanju prepoznavanja govornika. Ključni izazov u sistemima za prepoznavanje govornika je razlika u emotivnom
+stanju govornika prilikom obuke sistema i trenutka kada je potrebno izvršiti prepoznavanje.
+U našem istraživanju, izvršena je analiza algoritama za modeliranje i identifikaciju govornika
+koja je obuhvatila dosada poznate metode. Eksperimentalno su evaluirane metoda standardnog modela Gausovih mešavina, i tehnika i-vektora. Varijacijama sadržaja govora za obuku
+modela govornika u našim eksperimentima koje se odnosi na korišćenje i emotivnog govora za
+obuku modela govornika - različit broj rečenica izgovorenih u odredenom emotivnom stanju i
+različit ukupan broj rečenica pokazali smo da sistem postaje robusniji i postiže bolji procenat
+prepoznavanja govornika i na osnovu neutralnog i na osnovu emotivnog govora. Nakon toga
+testirane su varijacije konfiguracije modela govornika u smislu modeliranja govornika sa više
+od jednog modela, na osnovu grupisanja emotivnog govora i kasnije prepoznavnja na osnovu
+ovako distribuiranog modela.
+Na kraju, izvedena je varijacija strukture modela govornika. U našem istraživanju, primenom
+subtractive klasterizacije, odreden je broj komponenti Gausove mešavina govornika na osnovu
+uzoraka njegovog glasa i to na automatski način. Teorisjki je izvedena zavisnosti parametra
+subtractive klasterizacije od broja vektora obučavajućeg uzorka, njihove dimenzionalnosti, kao
+i raspodele. Dobijeni rezultati pokazali su da se sa manjim brojem komponenti govornik može
+modelovati podjednako uspešno, što daje prostor za dalja istraživanja mogućnosti primene
+subtractive klasterizacije za generisanje modela govornika.

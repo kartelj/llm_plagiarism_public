@@ -1,0 +1,13 @@
+Information technologies (IT) are crucial catalysts for both societal and commercial growth in the modern world. A thriving application of skills, methodologies and techniques in IT project management are challenging traditional business systems, encouraging changes in the way organizations operate, and simultaneously, enhancing management systems within organizations to attain a competitive edge in the market. 
+
+IT project management involves the harmonizing of IT with business strategies to meet the demands of both internal and external stakeholders, with the level of sophistication and application of IT largely depending on the organizational capacity and the strategies applied during its implementation. 
+
+A systematic and successful assimilation of IT requires a structured framework, hence organizations must establish a qualitative foundation for value generation through the application of IT, by employing evaluation systems that assess their competency and capacity. 
+
+Maturity models are contemporary tools used to measure the level of proficiency and capacity in project management within organizations. However, past studies indicate that the use of general maturity assessment models on different types of projects often neglects the distinctive competencies of each industry. Additionally, these models when applied in the IT industry, tend to omit the analysis of project and organizational proficiency and capacity. 
+
+The objective of this thesis is to develop a comprehensive model for organizational maturity assessment, encompassing both the aforementioned evaluation systems. For this purpose, data gathered through empirical research have been utilized to examine organizations with a clearly defined IT component, with a 360-degree analysis approach. 
+
+The first of its kind in the Republic of Serbia, this research employs a holistic perspective that encompasses assessment of input from IT experts, project managers, directors, investors and end-users. While this approach has limited international precedent, the results validate the hypothesis that a comprehensive model based on competencies, processes, documentation, and management systems can indeed be created for IT project management. 
+
+This model proposes benchmarks for six levels of maturity, enabling comparison of Serbian organizations with regards to their IT project management best practices. The model can be modularly implemented based on the needs of the organization and market demand, providing value to both academic and professional sectors by enhancing and expanding the theoretical approaches to maturity assessment in IT project management and defining the strategic direction of organizational development.

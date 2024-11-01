@@ -1,0 +1,17 @@
+Knowledge plays a crucial role in human resource development. In order for both companies and individuals to survive and stay competitive in today's market, they must apply modern knowledge. This can be obtained through formal and informal education, both in school and in the workplace, and through traditional and online mediums.
+
+Nowadays, there is a significant focus on electronic learning (e-learning) and electronic education (e-education) facilitated by modern information-communication technologies. This PhD dissertation investigates the use of informal e-learning through using Web 2.0 tools and examines how incorporating them into formal education can be beneficial.
+
+Although e-learning methods are somewhat familiar, they haven't been adopted widely, especially in our local environment. The dissertation analyzes the impacts of implementing informal e-learning with Web 2.0 tools on human resource potential stimulation.
+
+A concept identified as a personal learning environment was utilized as a method for structuring the informal e-learning 2.0. This introduces a shift from the traditional teacher-led learning environment to a learner-centered approach, representing the difference between the old pedagogy and the new pedagogy 2.0.
+
+The dissertation tests these concepts in practice by introducing a pedagogical model for an e-learning 2.0 personal environment, assessed via an action research study. This study involved students from all years and fields of study from the Faculty of Organizational Sciences, with a survey conducted to understand their knowledge of Web 2.0 tools and how they utilized them for learning.
+
+The findings suggest that the utilization of informal e-learning 2.0 in colleges is significantly influenced by both the students' individual characteristics and potentials on one hand, and on the other by teachers and their course organization. Consequently, senior students, particularly those studying information systems and technologies, were selected as suitable candidates to test the developed model.
+
+The potential use of personal learning environments in formal education was further examined via an action research study conducted on the E-Learning course at the Faculty of Organizational Sciences. A pedagogical model was developed for this purpose, known as the pedagogical PLE model for e-learning 2.0.
+
+The study results demonstrated that both the application of the pedagogical PLE model in formal education was possible and that the students had a positive attitude towards this learning setup, finding it creative and interesting.
+
+In conclusion, the formal educational process can be innovated by using the pedagogical PLE model for e-learning 2.0, which is based on informal learning principles. This strategy can contribute towards improving human resource development potential by enhancing skills necessary for our future 2.0 work environment.

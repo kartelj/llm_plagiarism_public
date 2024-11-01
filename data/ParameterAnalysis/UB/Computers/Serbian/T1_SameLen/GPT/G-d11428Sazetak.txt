@@ -1,0 +1,50 @@
+'Selekcija kvalitetne strategije za rutiranje u paketskoj mreži ima značajan uticaj na
+pouzdanost same mreže i kvalitet prenosa informacija kroz nju. Izabrana strategija rutiranja takođe
+utiče na stepen iskorišćenja različitih resursa mreže. Loša selekcija rutiranja može
+izazvati stvaranje uskih grla u mreži i rezultovati blokiranjem određenih veza.
+Pored toga, strategija rutiranja utiče na zakašnjenje u prenosu paketa, kao i cenu
+mreže. Optimizacija rutiranja u mreži se vrši sa ciljem odabira odgovarajuće strategije rutiranja, prilagođene određenoj mrežnoj topologiji i postavljenim zahtevima korisnika. Proces optimizacije rutiranja
+ima za cilj da odredi putanju paketa tako da se postigne optimalna vrednost neke od
+mrežnih performansi. U zavisnosti od problema koji se rešava, rutiranje se može optimizovati kako bi se postigla maksimalna propusna moć mreže, minimizirala cena mreže,
+minimiziralo zakašnjenje u prenosu i slično.
+U ovom radu ćemo se fokusirati na probleme optimizacije rutiranja sa ciljem
+maksimizacije propusnih sposobnosti i minimizacije troškova mreže. Želimo da
+komunikaciona mreža bude bez blokada. Ovo implicira da mreža mora obezbediti servis za
+sve korisnike koji generišu ili primaju saobraćaj unutar dozvoljenih granica. Bez obzira
+na trenutno stanje saobraćaja u mreži, zahtevi korisnika za slanje ili prijem paketa
+moraju biti ispunjeni, pod uslovom da ne prelaze dozvoljene vrednosti. Osnovu ovog
+rada čini predlog nove šeme rutiranja zasnovane na balansiranju saobraćaja i
+rutiranju po najkraćem putu, koju nazivamo balansirano rutiranje saobraćaja
+(BRS). Predložena šema rutiranja se može optimizovati tako da se postigne maksimalna
+propusna moć mreže ili minimalni trošak mreže, a koristi se linearno
+programiranje.
+Osnovna prednost predložene strategije rutiranja je stvarna mogućnost
+njene implementacije. U praksi, rutiranje po najkraćem putu je široko rašireno, a
+predložena šema rutiranja je modifikacija koja se relativno lako može realizovati. Veličina
+linearnog programa koji koristimo je prihvatljiva za praktičnu primenu, kao i vreme
+neophodno za njegovo izvršavanje. Korišćenjem predložene šeme moguće je pružiti servis
+za veći broj korisnika nego kada se koristi standardno rutiranje po najkraćem
+putu, bez potrebe za promenama postojeće mrežne topologije. Takođe,
+u postojećoj mreži, predložena šema omogućava servisiranje određenog broja
+korisnika po nižoj ceni u odnosu na cenu servisiranja iste grupe korisnika u mreži koja
+koristi rutiranje po najkraćoj putanji.
+U ovom radu biće prvo definisana strategija balansiranog rutiranja saobraćaja.
+Zatim će biti sprovedena analiza performansi predložene strategije rutiranja i izvršeno njeno
+upoređivanje sa standardnim rutiranjem na najkraćem putu. Konkretno, analiziraće se dva
+slučaja. U prvom ćemo optimizirati rutiranje sa balansiranjem saobraćaja,
+tako da se postigne maksimalna propusna moć mreže. Propusna moć u kojoj se primenjuje
+balansirano rutiranje saobraćaja tada će biti poređena sa propusnom moći mreže u
+kojoj je sprovedeno rutiranje na najkraćem putu. Pokazaćemo da se upotrebom
+balansiranja saobraćaja može ostvariti značajno povećanje propusne moći mreže, uz
+korišćenje postojećih resursa. U drugom slučaju, vršiće se optimizacija rutiranja sa
+balansiranjem saobraćaja, kako bi se ostvarila minimalna cena mreže koja može podržati
+neki predviđeni saobraćaj. Cena mreže koja primenjuje balansirano rutiranje saobraćaja zatim
+će biti upoređena sa cenom mreže koja primenjuje standardno rutiranje na najkraćem putu. Pokazaćemo da je cena mreže koja može podržati određeni saobraćaj manja ukoliko
+se primenjuje predloženo balansirano rutiranje saobraćaja.
+Analiza će biti izvedena kako za regularne, tako i za realne mrežne topologije.
+Takođe, optimizacija rutiranja će se vršiti i za slučajeve kada je potrebno da mreža
+bude pouzdana. Pouzdana mreža mora biti sposobna da obezbedi nesmetanu komunikaciju korisnika čak iu slučaju otkaza nekog resursa
+(veze ili rutera). U slučaju otkaza nekog
+resursa, veći teret se prebacuje na one resurse koji su ostali u funkciji. Zato se u
+takvoj mreži garantovani saobraćaj svakog korisnika mora dodatno ograničiti (smanjujući se propusna moć mreže), odnosno kapacitet svake veze dodatno povećati (povećavajući se cena mreže). Pokazaćemo da su performanse predloženog balansiranog rutiranja saobraćaja u svim analiziranim situacijama iste ili bolje od performansi
+rutiranja po najkraćem putu, koje je danas u praksi široko upotrebljeno.

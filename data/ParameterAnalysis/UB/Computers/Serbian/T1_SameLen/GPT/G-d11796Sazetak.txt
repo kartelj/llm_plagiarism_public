@@ -1,0 +1,9 @@
+'Sistemi sastavljeni od velikog broja malih računarskih uređaja, sa integrisanim senzorima za prikupljanje podataka iz okruženja, sposobni za komuniciranje radio vezom, čine bežične senzorske mreže. Takve mreže mogu generisati veliki volumen podataka, što ih čini idealnim za korišćenje sa mašinskim učenjem. Ovaj rad se fokusira na prilagođavanje određenih algoritama mašinskog učenja da bi izračunavanja bila obavljena na uređajima koji čine senzorsku mrežu.
+
+Kroz analizu, definisana su tri fundamentalna zahteva za algoritme distribuiranog mašinskog učenja u bežičnoj senzorskoj mreži. Prvo, neophodno je smanjiti komunikaciju među čvorovima u mreži da bi se sačuvala energija. Drugo, važno je da su rezultati algoritma precizni. Treće, treba maksimalno izbegavati upotrebu centralizovanih računarskih resursa koji su izvan mreže.
+
+Ovaj rad donosi dva algoritma distribuiranog mašinskog učenja prilagođena za upotrebu u bežičnim senzorskim mrežama. Prvi algoritam je klasifikacioni sistem koji radi na dva nivoa. Prvo se donosi odluka na nivou čvorova koristeći odabrani klasifikator. Zatim se odluka na nivou mreže donosi na osnovu svih lokalnih odluka. Dokazano je da Kapa statistika može obezbediti visok nivo tačnosti ovog algoritma.
+
+Drugi algoritam je algoritam za grupisanje podataka, koji se bazira na Kohonenovim neuronskim mrežama. Podaci iz senzora u bežičnim senzorskim mrežama su prilagođeni ovoj mreži. Oni sadrže dve informacije: gde se događaj desio i tip događaja. Na osnovu ovih informacija, kreirana je Kohonenova neuronska mreža sa dva sloja.
+
+Oba algoritma su testirana matematičkom analizom i pokazano je da mogu omogućiti velike uštede energije. Preciznost algoritama je istraživana koristeći računarske simulacije. Prikazani algoritmi mogu naći praktičnu primenu i tehnike distribuiranog mašinskog učenja predstavljanju moguća rešenja za održivi razvoj velikih senzorskih mreža.

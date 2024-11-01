@@ -1,0 +1,17 @@
+The doctoral dissertation's primary focus is the information society, its progression, and methods for monitoring and evaluating its advancements. It delves into existing research and theories about the information society's evolution, forms, growth factors, and global initiatives to guide its progress. The dissertation explores how to quantify the information society using correlated indicators, identifying the most suitable metrics for assessing its current state.
+
+The dissertation also provides a classification of benchmarking indicators, which are crucial for any methodology aiming to quantify the information society. It reviews the most relevant methodologies used globally to evaluate the information society. However, the crux of the dissertation is the creation of a unique model to track and evaluate Serbia's information society advancements.
+
+This model is based on theoretical foundations and is compatible with European Union standards, making it applicable for international cross-country analyses and comparisons. It also aligns with the specific characteristics of Serbia's information society and its potential for investment and development.
+
+The model's formulation includes selecting Information Society Indicators (ISI) in line with EU standards, adjusted to Serbia's characteristics and development potential. It also involves transforming the ISI set for ranking, extracting the most relevant ISI, and defining a sub-model to quantify the digital divide using a unique compound indicator - the Digital Polarization Index (DPI).
+
+The model was tested in Serbia over a five-year period, involving statistical monitoring, quantification, data analysis, and results analysis to understand the current state, identify and quantify critical points in the development of Serbia's information society, and predict future progress.
+
+The dissertation's professional contribution is evaluating Serbia's information society development from both the population and economic perspectives. It also quantifies and evaluates the intensity and trends of the digital divide, targeting the most digitally underdeveloped groups in Serbia.
+
+The dissertation's scientific contribution is the creation of a model to monitor and evaluate the information society's development. This model uses the I-distance method and cluster analysis, two combined multivariate analysis methods, reducing the initial set of indicators to a subset of the most relevant ones. This reduction, while preserving valuable information, increases the model's practical applicability.
+
+The dissertation also defines a model for quantifying the digital divide in different areas using the digital polarization index. This model's main features are its generality, flexibility, and capacity for modification, allowing for the identification, definition, and calculation of various individual sub-indices of digital polarization.
+
+The dissertation's social contribution is its potential application in monitoring and quantifying the information society and guiding its development. The formulated model can serve as a strategic decision-making tool and a tool to observe and minimize the digital divide. It can also support the evaluation of complex social phenomena outside the information society framework.

@@ -1,0 +1,17 @@
+This dissertation primarily investigates remote sensing methodology, focusing on collecting and preparing data suitable for processing, especially using statistical methods for classification. A major aim is refining a methodology to define sensitivity zones, using multivariate statistical methods, during classification processes. 
+
+Remote sensing involves obtaining information about an object—in this case, the Earth's surface—without direct physical contact. This is done by recording reflected or emitted energy from the object, processing this data, and then analyzing and applying it. It fuses disciplines like image processing and Geographic Information Systems (GIS) in the larger field of geospatial science and technology. 
+
+A digital image is made up of pixels, which have recorded brightness and a color spectrum, and these can be analyzed as individual samples of an image. This thesis heavily focuses on classifying these remotely-sensed data, specifically aiming to sort the image's pixels into specific classes based on their intensity and color. 
+
+Multivariate analysis, suitable for data with many variables like remote sensing data, is used to analyze multiple measurements simultaneously. Discriminate analysis and data clustering techniques, with the latter being less relevant to the proposed method, are also discussed. Bayesian decision theory is also employed, offering a statistical solution for classification problems. 
+
+This dissertation evaluates the classification techniques used in remote sensing, introducing digital images’ concept and their basic processing techniques. We review two classification methods: Supervised—which trains algorithms to recognize spectrally similar areas from representative image samples—and Unsupervised—classifies areas exclusively based on numerical data, followed by analyst validation.
+
+Regardless of the statistical method used in classification, classification accuracy must be assessed. This research aims to improve classification accuracy by developing a methodology using a sensitivity zone, reducing the resources and time required for classification. 
+
+A more detailed discussion of classification occurs in the sixth chapter, proposing a new method for calculating and applying the sensitivity zone in remote sensing. It tackles the problem of classifying border-region elements between two categories. It concludes by outlining how to determine these zones, improving pixel classification into appropriate classes. 
+
+This dissertation describes the steps to identify the sensitivity zone and highlights its advantages over other classification methods. The benefits mainly lie in improving classification accuracy and reducing time and resources. This proposed classification method involves two phases—firstly, discrimination (hyper)plane determination quickly, then identifying entities in the sensitivity zone and classifying pixels using the computationally complex k-nearest neighbors method (kNN). The accuracy of the classification is then measured.
+
+In the seventh chapter, case studies demonstrate the sensitivity zone's application in precision agriculture. Considering the data nature tested, a significant contribution is made concerning analyzing images collected by unmanned aircrafts, especially within seasonal and perennial crop management. The research concludes with answers attaining original objectives and hypotheses, and an appendix briefly details the software solution developed for the research and data analysis.

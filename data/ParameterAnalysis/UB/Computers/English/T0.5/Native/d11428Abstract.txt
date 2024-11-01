@@ -1,0 +1,40 @@
+The choice of the routing strategy in a packet network has the great impact on the
+reliability and the overall quality of data transmission. The chosen routing strategy also
+has an impact on the usage of different network resources, and bad routing decisions can
+cause bottlenecks in the network, and limit the throughput. Additionally, network latency
+as well as network cost also depend on the chosen routing scheme. In order to determine
+the best routing strategy for the given network and expected traffic, routing optimization
+is performed. The goal of routing optimization is achieving the best possible value for the
+chosen network performance metric. Depending on the problem that is being solved,
+optimization can be performed to maximize the network throughput, minimize the
+network cost, minimize the latency, etc.
+In this paper, we will address the problems of network throughput maximization,
+and network cost minimization. We will focus on the non-blocking networks, which
+guarantee the service to all users that are generating and receiving the traffic within the
+defined boundaries, regardless of the current traffic distribution in the network. In this
+paper, we will propose the novel routing scheme, based on load balancing and shortest
+path routing. We will refer to the proposed scheme as load balanced routing (LBR). The
+proposed routing protocol can be optimized using linear programming, in order to
+minimize the cost, or maximize the network throughput.
+The proposed routing scheme can easily be deployed in practice. Namely, shortest
+path routing is widely used, and the proposed routing is a modification that can relatively
+easy be implemented. The dimension of the linear program is acceptable, as well as the
+time needed to perform the optimization. With the proposed routing, it is possible to
+guarantee the service to the greater number of users, then in case of the regular shortest
+path routing. Also, the cost of servicing a given number of users is smaller if the proposed
+routing is applied instead of the shortest path routing.
+First, we will introduce the proposed load balanced routing, and the linear program
+for its optimization. Then, we will analyze the performance of the proposed routing
+scheme, and compare it with the performance of the shortest path routing. In particular,
+we will focus on two cases. In the first one, we will optimize the load balanced routing to
+achieve the maximum network throughput. It will be shown that the proposed load
+balanced routing can significantly increase the guaranteed network throughput, when
+compared to the regular shortest path routing. In the second case, we will optimize the
+load balanced routing in order to achieve minimum cost of the network that can support
+given user demands. It will be shown that the cost of the network with load balanced
+routing is lower than the cost of the network using shortest path routing.
+Analysis will be performed for both regular and realistic network topologies. Also,
+the analysis will be performed for the networks in which service reliability is demanded,
+in the case of single resource (link or router) failure. It will be shown that the performance
+of the proposed load balanced routing is better than the performance of shortest path
+routing in all of these cases.

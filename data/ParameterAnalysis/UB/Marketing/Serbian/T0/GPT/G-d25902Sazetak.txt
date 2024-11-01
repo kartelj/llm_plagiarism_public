@@ -1,0 +1,17 @@
+Doktorska disertacija se bavi razvijanjem modela za crowdsourcing u kontekstu pametnih gradova, koristeći se internetom stvari (IoT) i mobilnim tehnologijama. Centralna tema disertacije je istraživanje kako se crowdsourcing, internet stvari i mobilne tehnologije mogu koristiti za kreiranje usluga pametnog grada. Istraživanje se fokusira na analizu, definisanje i implementaciju različitih modela crowdsourcing-a sa ciljem poboljšanja kvaliteta života u pametnim gradovima. Disertacija takođe ispituje spremnost građana da koriste crowdsourcing usluge pametnog grada. 
+
+U prvoj fazi istraživanja, glavni cilj je identifikacija crowdsourcing usluga koje se oslanjaju na internet stvari i mobilne tehnologije, a koje bi mogle podstaći građane da se aktivno uključe u život pametnog grada. Istraživanje se posebno fokusira na gradove koji još uvek nisu u potpunosti prilagođeni standardima pametnih gradova. 
+
+Metodologija istraživanja se bazira na analizi različitih modela crowdsourcing-a, kao što su crowd wisdom, crowdfunding, crowdvoting i crowdsensing, i njihovoj primeni u različitim sektorima, kao što su saobraćaj, zaštita životne sredine, komunalne usluge i zdravstvo. Podaci su prikupljeni putem ankete sprovedene u Beogradu, sa uzorkom od 210 ispitanika. 
+
+Rezultati pokazuju da su građani spremni da koriste crowdsourcing usluge bazirane na modelima crowd wisdom, crowdfunding i crowdvoting. Takođe, rezultati pokazuju da su građani najviše zainteresovani za korišćenje usluga u oblasti zaštite životne sredine (usluge koje se finansiraju kroz projekte za razvoj solarne energije i zaštitu životne sredine) i saobraćaja (usluge koje se odnose na glasanje i e-participaciju građana u cilju poboljšanja javnog prevoza). 
+
+Ovi rezultati, pored toga što ukazuju na prioritetne usluge koje bi trebalo implementirati, mogu poslužiti kao dobra osnova za pokretanje drugih projekata pametnih gradova. Predložena metodologija i zaključci mogu poslužiti kao deo šireg okvira za odabir projekata implementacije pametnih gradova. 
+
+U disertaciji je prikazan razvoj crowdsourcing platforme "Pametan Beograd", koja ima za cilj da podstakne građane na timski rad, ostvarivanje zajedničkih ciljeva kroz primenu kolektivne inteligencije i izgradnju organizovane interaktivne online zajednice. 
+
+Građani pametnog grada mogu se putem ove platforme informisati o aktuelnim problemima u oblasti ekologije, komunalnih usluga i saobraćaja. Registrovani korisnici na platformi mogu učestvovati u rešavanju definisanih problema, dodavati nove inicijative, postavljati informacije od značaja, prikupljati podatke pomoću odgovarajućih mobilnih uređaja, prijavljivati probleme u gradu. 
+
+Pored ovih usluga, na platformi je implementiran i crowdvoting servis koji omogućava glasanje za pokrenute inicijative u pametnom gradu. Predloženi model u disertaciji bi trebao da doprinese boljem informisanju i uključivanju građana u pametnom gradu. 
+
+Evaluacija modela razvijenog u doktorskoj disertaciji je sprovedena sa ciljem testiranja sistema i merenja relevantnih parametara koji utiču na efikasnost i korisnost predloženog modela. Rezultati dobijeni eksperimentalnim putem potvrđuju glavnu hipotezu da razvoj i primena modela crowdsourcing-a baziranog na internetu stvari i mobilnim tehnologijama unapređuje učešće građana u procesu sakupljanja, širenja i upotrebe informacija u pametnom gradu.

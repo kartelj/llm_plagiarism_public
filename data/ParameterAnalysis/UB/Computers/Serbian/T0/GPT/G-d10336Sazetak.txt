@@ -1,0 +1,17 @@
+Ova studija se bavi praćenjem ponašanja studenata, identifikacijom obrazaca u njihovom okruženju i njihovim prikazivanjem putem tehnologije pametnih uređaja povezanih na Internet. Centralna hipoteza, koja je potvrđena u ovoj doktorskoj disertaciji, jeste da upotreba tehnologije pametnih uređaja povezanih na Internet može unaprediti efikasnost nastave kroz implementaciju sistema za praćenje aktivnosti studenata, koji omogućava skoro trenutnu analizu parametara iz okruženja i prikazivanje obrađenih rezultata.
+
+Da bi se ocenio broj potrebnih tehnika za implementaciju ovih procesa i opravdala potreba za ovom studijom, izvršen je pregled relevantnih istraživanja u oblasti računarskih i društvenih nauka. Pregled je uključivao poređenje i komparativnu analizu platformi za pametne učionice, koje su pre svega platforme gde će se primenjivati nova, sveobuhvatna računarska rešenja sposobna da prepoznaju sociološke kontekste čim se pojave.
+
+Društvene nauke su ključne za razumevanje pozadine procesa koji se klasifikuju i prate, pa je pregled društvenih nauka, posebno socioloških signala, omogućio potpun pregled relevantnih bibliografskih izvora i dao smernice za dalju moguću implementaciju sistema za praćenje aktivnosti.
+
+Pregledom su identifikovani potencijalni parametri i algoritmi koji se mogu analizirati i koristiti za analizu, a zatim je predstavljena metodologija koja je korišćena u istraživanju za sve faze studije. Pre definisanja algoritama koji se mogu koristiti i postavljanja arhitekture, objašnjeni su zahtevi sistema koje je neophodno ispuniti da bi prepoznavanje obrazaca u učionici moglo efikasno da se obavlja.
+
+Prepoznavanje obrazaca se vrši metodom mašinskog učenja, za koju je preduslov postojanje klasifikatora baziranog na određenom setu podataka. Simulacija sistema je izvršena pre implementacije, koristeći set podataka koji nisu korišćeni u procesu treniranja. Tokom simulacije, sistem je pokazao prosečnu tačnost od 92.2%.
+
+Nakon simulacije, sistem je implementiran i njegove performanse su evaluirane upoređivanjem ocena studenata u realnom vremenu (za vreme predavanja) i ocena koje je dao sistem. Prosečna tačnost sistema evaluiranog na ovaj način za tri grupe studenata bila je 81.9%.
+
+Sistem je implementiran u Matlab-u i sposoban je da ekstrahuje parametre iz digitalnih signala koji se prikupljaju pomoću kamere i mikrofona. Iz slike se ekstrahuje intenzitet pokreta studenata na osnovu razlika između frejmova, dok se iz zvuka ekstrahuju sledeće karakteristike: glasovni segmenti, vreme govora, glasovna stopa, broj kratkih govornih segmenata, formantna frekvencija, pouzdanost formantne frekvencije, vrednost najvećeg autokorelacionog pika, lokacija najvećeg autokorelacionog pika, broj autokorelacionih pikova i govorna aktivnost.
+
+Vrednosti ovih parametara se zatim koriste kao ulaz za klasifikator koji se sastoji od skupa podataka ekstrahovanih iz velikog broja snimljenih predavanja, tokom kojih su studenti ocenjivali kvalitet predavanja u realnom vremenu koristeći aplikaciju na mobilnom telefonu.
+
+Finalna evaluacija performansi sistema, sprovedena nakon implementacije, gde je sistem korišćen za prepoznavanje parametara uživo na predavanjima, pokazala je da je sistem sa zadovoljavajućom tačnošću (81.9%) u mogućnosti da prepozna zainteresovanost studenata.

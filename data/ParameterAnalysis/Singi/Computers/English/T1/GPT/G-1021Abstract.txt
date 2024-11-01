@@ -1,0 +1,19 @@
+Considering our planet holds over 7 billion inhabitants, with projections for 9 billion by 2050, the challenge of identifying individuals while maintaining privacy is immense. Many governments and security organizations are turning towards biometric identification to ensure collective security. Additionally, private companies are capitalizing on this trend, viewing it as an opportunity to profit in a market that previously only catered to the government sector.
+
+Despite their economic struggles, the United States is one of the leading countries investing heavily in biometric identification improvement, especially following the terrorist attacks on September 11, 2001. Similarly, China, another economic powerhouse, is also committed to developing biometric identification mechanisms due to its massive population. Meanwhile, in India, the motivation for utilizing biometric identification is more rudimentary - food distribution.
+
+The European Union, led by the Netherlands, also prioritises the development and application of biometric identification. However, the security of the stored biometric data largely depends on the protocols of the organizations handling the data, and the methods used to safeguard the data. Even when managed by supposedly "trusted" governmental institutions, the potential for misuse remains a constant threat. 
+
+The delicate balance between security and privacy is a topic of global concern amongst researchers. There are numerous approaches to this issue that are being explored using new advancements in information technology. It's crucial to understand that biometric data can be "noisy," implying they may not always be consistent. 
+
+Traditional cryptographic procedures don't work well with biometric data due to this inconsistency. Instead, "fuzzy logic" presents a more human-like thought process and is often proposed as a solution for biometric identification. Some methods suggest creating cryptographic keys directly from the noisy biometric data using a procedure known as a “fuzzy extractor function”.
+
+Others propose independently generating a cryptographic key satisfying all cryptographic requirements, then combining it with the biometric data. Various error correction mechanisms come into play to balance the inconsistencies in the biometric data under this category. 
+
+Previous attempts and solutions are a mixed bag—with some exposing biometric features in an open format while others fail to provide reliable decryption. The use of error correction methods, however, produces more promising outcomes.
+
+This paper proposes a different approach that prioritizes fingerprints for biometric data. Two independent templates are created, with one used for identification and the other combining biometrics with a pre-constructed cryptographic key. Both these templates would then be stored on something like a microchip card for safekeeping. 
+
+During key reconstruction, the original fingerprint is essential to confirm the individual's identity before extracting the cryptographic key from the fingerprint and correcting any errors via the Slepian Wolf encoding. Afterward, the key can be used for standard cryptographic operations.
+
+This proposed solution greatly minimizes errors in personal identification and reconstructing the cryptographic key, making it both efficient and practical. This method also increases the security of the original fingerprint as it is not exposed openly during any part of the process. The method suggested in this paper has proven resistant to a variety of potential attacks on biometric data and person identity, thus serving as a secure and private biometric identification solution.

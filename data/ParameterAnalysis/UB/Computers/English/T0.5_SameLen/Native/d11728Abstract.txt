@@ -1,0 +1,25 @@
+The first part of this dissertation presents analysis of the routing protocols in
+data center topologies. Emphasis is put on two-phase routing protocols which enable
+congestion avoidance in data center topologies, which are regular and have significant
+number of alternative paths. This dissertation proposes new two-phase routing
+algorithm, LB-ECR, which enables better utilization of data center networks. Using the
+method of linear programming, LB-ECR maximises the loss-free throughput for the
+given required traffic of the switches. LB-ECR is based on ECMP routing which is
+common in data centers due to its utilization of alternative equal-cost paths. Two-phase
+balancing enables simplification of the linear model by eliminating traffic flows and
+decreases the possibility of congestion by distributing traffic among less used links.
+Simplification of the linear model simplifies its solution for large data centers. The first
+part of this dissertation gives an overview of the network topologies and the routing in
+data centers, and performance comparison of different routing algorithms in typical
+data center topologies.
+In addition to the routing optimization, this dissertation examines the algorithms
+for updating the lookup tables of Internet routers. The second part of this dissertation
+provides an overview of the lookup and update algorithms. Updating performance of
+two advanced lookup algorithms is examined. We develop formulas for the worst-case
+memory requirements for two fast lookup algorithms, while we show through
+simulations the memory requirements for typical routing tables. We also evaluate the
+number of memory accesses to the lookup modules during updates, the complexity of
+the updating algorithms, as well as their execution time for typical routing tables.
+The third part of this dissertation encompasses description of the
+implementations of the two-phase routing algorithms and of the lookup update
+algorithms, as well as the integration of these components inside the router.

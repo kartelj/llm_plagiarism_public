@@ -1,0 +1,13 @@
+The rise in mobile phone usage is a daily occurrence. Looking back at the evolution of mobile devices, it's clear that manufacturers have progressed to producing highly advanced devices, aptly named smartphones. These devices have become increasingly integral to our daily lives due to their expanded capabilities and myriad of features. Smartphones are used for various purposes such as phone calls, internet browsing, sending messages (SMS, MMS, email), using the camera, or GPS. 
+
+However, with the advancement of mobile technology, security issues have emerged, particularly concerning data transfer from sender to recipient. The security threats to these devices are escalating due to a lack of sufficient protective measures and tools. The introduction of mobile operating systems has further complicated matters. While each operating system offers numerous benefits to users, they also present several security vulnerabilities. 
+
+Considering the growing popularity of internet usage on mobile devices, it's essential to address the risks associated with secure communication and establishing a communication channel. The widespread use of mobile devices necessitates considering security issues for all communication participants. 
+
+Open source projects provide developers with a platform to create solutions based on their ideas. Access to an operating system's source code has resulted in an operating system that has outperformed all others and become a global market leader. The Android operating system quickly gained popularity among developers and beyond due to its reliance on the Java programming language. As an open platform for mobile devices, Android allows for modifications even at the operating system level. 
+
+This gives developers the chance to develop unique security mechanisms not typically found on other mobile platforms. The Android operating system is Linux-based and is part of an Open Source Association. Since its inception seven years ago, Android has evolved to version 7.0. 
+
+This paper analyzes Android's security mechanisms, identifies certain shortcomings, particularly in its low-level security framework. Survey results suggest users lack adequate knowledge about mobile phone safety on the internet. Detailed analysis of the Android operating system and its security mechanisms indicate a need to enhance Android's security framework. 
+
+Proposed measures for improvement include using SE Linux to boost security levels. A comparison of the Android Open Source Project (AOSP) and the proposed Security Enhanced (SE) Android system is provided. The paper concludes with future work directions.
